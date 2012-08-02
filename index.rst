@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Справочный Корпус Бамана: Документация
-======================================
+Справочный Корпус Бамана
+========================
 
-Содержание:
+`Поиск в корпусе <http://theschool.spb.ru/bonito/run.cgi/first_form>`_
+
+Документация:
 
 .. toctree::
    :titlesonly:
