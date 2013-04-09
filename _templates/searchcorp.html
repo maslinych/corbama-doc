@@ -1,0 +1,35 @@
+{#
+    basic/searchbox.html
+    ~~~~~~~~~~~~~~~~~~~~
+
+    Sphinx sidebar template: quick search box.
+
+    :copyright: Copyright 2007-2011 by the Sphinx team, see AUTHORS.
+    :license: BSD, see LICENSE for details.
+#}
+<div id="searchbox" style="display: none">
+    <h3>{{ _('Быстрый поиск в корпусе') }}</H3>
+    <form class="search" action="http://maslinsky.spb.ru/bonito/run.cgi/first" method="get">
+      <input type="text" name="iquery" />
+      <input type="submit" value="{{ _('Go') }}" />
+      <input type="hidden" name="corpname" value="corbama-brut" />
+      <input type="hidden" name="queryselector" value="iqueryrow" />
+      <input type="hidden" name="lemma" value="" />
+      <input type="hidden" name="phrase" value="" />
+      <input type="hidden" name="word" value="" />
+      <input type="hidden" name="char" value="" />
+      <input type="hidden" name="cql" value="" />
+      <input type="hidden" name="default_attr" value="word" />
+      <input type="hidden" name="fc_lemword_window_type" value="both" />
+      <input type="hidden" name="fc_lemword_wsize" value="5" />
+      <input type="hidden" name="fc_lemword" value="" />
+      <input type="hidden" name="fc_lemword_type" value="all" />
+      <input type="hidden" name="sca_doc.id" value="" />
+      <input type="hidden" name="sca_doc.author_name" value="" />
+      <input type="hidden" name="sca_doc.text_title" value="" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    {{ _('Введите словоформу или лемму') }}
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
