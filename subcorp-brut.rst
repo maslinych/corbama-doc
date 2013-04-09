@@ -1,5 +1,5 @@
 ﻿Состав подкорпуса с неснятой омонимией
-======================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 mots.
 - Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
@@ -37,7 +37,7 @@
 --------------------
 
 Jɛkabaara
-~~~~~~~~~
+.........
 
 - No. 11, 3390 mots
 - No. 12, 3461 mots
@@ -67,7 +67,7 @@ Jɛkabaara
 - No. 296, 7661 mots
 
 Faso kan
-~~~~~~~~
+........
 
 2009
 

@@ -1,5 +1,5 @@
 ﻿Состав подкорпуса со снятой омонимией
-=====================================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 mots.
 - Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 mots.
@@ -31,18 +31,18 @@ Périodiques
 -----------
 
 Jama
-~~~~
+....
 
 Jama 14, 23 280 mots
 
 Jɛkabaara
-~~~~~~~~~
+.........
 
 - No. 10, oct. 1986, 3800 mots
 - No. 273, p. 1-4: 2546 mots
 
 Faso kan
-~~~~~~~~
+........
 
 2009:
 
