@@ -18,6 +18,7 @@
    :maxdepth: 1
    :hidden:
 
+   Поиск в корпусе <http://maslinsky.spb.ru/bonito/run.cgi/first_form>
    about-ru
    ideology-ru
    tools-ru
