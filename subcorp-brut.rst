@@ -92,10 +92,9 @@ Jɛkabaara
 Kibaru
 ........
 
-No. 439, 9150 mots
-No. 461, 10564 mots
-No. 462, 11229 mots
-No. 464, 10301 mots
-No. 466, 11382 mots
-No. 467, 11079 mots
-
+- No. 439, 9150 mots
+- No. 461, 10564 mots
+- No. 462, 11229 mots
+- No. 464, 10301 mots
+- No. 466, 11382 mots
+- No. 467, 11079 mots
