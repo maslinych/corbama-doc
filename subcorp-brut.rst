@@ -2,16 +2,18 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 mots.
+- Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 mots.
 - Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
 - Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 mots.
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 mots.
 - Konatɛ, Musa. Baru n'a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 mots.
 - Layidu Kɔrɔ (Ancien Testament), 754164 mots.
+- Maléfices et manigances: Chroniques maliennes. G.Dumestre, Seydou Touré. 114872 mots.
 
 Сказки бамана 
 -------------
 
-Получено с сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
+С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
 
 - Diɲɛ Yaalala, 317 mots.
 - Dɔnkɛsunguru, 280 mots.
@@ -25,16 +27,37 @@
 - Radio Mali, bulletin de soir, 27.01.1993, 3543 mots.
 - Radio Moscou, bulletin de nouvelles, 20.10.1987, 2228 mots.
 
-Устные тексты
--------------
+Периодика
+---------
 
-- [Entretiens sur le sida : Zacharia avec B., 21.03.94] 10 528 mots.
-- [Entretiens sur le sida : Zacharia avec BT., 04.04.94], 5679 mots.
-- [Entretiens sur le sida : Zacharia avec ZD., 09.04.94], 4598 mots.
-- [Entretiens sur le sida : Zacharia avec A., 10.04.94], 1863 mots.
+Faso kan
+........
 
-Éditions périodiques
---------------------
+2009
+
+- août: 782 mots
+- septembre: 1881 mots
+
+2010
+
+- août: 1117 mots
+- septembre: 1828 mots
+- octobre: 1754 mots
+- novembre: 101 mots
+
+2011
+
+- janvier: 587
+- février: 433
+- mars: 1135
+- avril: 1135
+- mai: 950
+- juin: 271
+- juillet: 939
+- août: 386
+- septembre: 124
+- octobre: 349
+- novembre: 1296
 
 Jɛkabaara
 .........
@@ -66,32 +89,13 @@ Jɛkabaara
 - No. 295, 6138 mots
 - No. 296, 7661 mots
 
-Faso kan
+Kibaru
 ........
 
-2009
-
-- août: 782 mots
-- septembre: 1881 mots
-
-2010
-
-- août: 1117 mots
-- septembre: 1828 mots
-- octobre: 1754 mots
-- novembre: 101 mots
-
-2011
-
-- janvier: 587
-- février: 433
-- mars: 1135
-- avril: 1135
-- mai: 950
-- juin: 271
-- juillet: 939
-- août: 386
-- septembre: 124
-- octobre: 349
-- novembre: 1296
+No. 439, 9150 mots
+No. 461, 10564 mots
+No. 462, 11229 mots
+No. 464, 10301 mots
+No. 466, 11382 mots
+No. 467, 11079 mots
 

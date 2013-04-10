@@ -2,6 +2,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 mots.
+- Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 mots.
 - Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 mots.
 - Jaabi, Musa. Ntɛntɛnw n'u jaabiw. Bamako, DNAFLA – OCED, 1993, 27 p., 2442 mots.
 - Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 mots.
@@ -9,8 +10,8 @@
 - Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 mots.
 - Traore, Ismaila Samba. Hinɛ nana: Réveil d'un paysannat. Keïta, Astan; Théra, Job (éd.). Bamako: Sahélienne, 1992, 119 p., 33 569 mots.
 
-Textes oraux enrégistrés et transcrits par Charles Bailleul
------------------------------------------------------------
+Тексты, собранные и затранскрибированные Шарлем Байолем:
+--------------------------------------------------------
 
 - Bamakɔ sigicogoya, 1142 mots
 - Basiya, 964 mots
@@ -19,16 +20,24 @@ Textes oraux enrégistrés et transcrits par Charles Bailleul
 - Kɔntɔrɔn ni Saane, 6824 mots
 - Nimaaniya, 378 mots
 
-Textes oraux de la collection de Gérard Dumestre
+Устные тексты из коллекции Жерара Дюместра
 ------------------------------------------------
+    
+    - [Entretiens sur le sida : Zacharia avec B., 21.03.94] 10 528 mots.
+    - [Entretiens sur le sida : Zacharia avec BT., 04.04.94], 5679 mots.
+    - [Entretiens sur le sida : Zacharia avec ZD., 09.04.94], 4598 mots.
+    - [Entretiens sur le sida : Zacharia avec A., 10.04.94], 1863 mots.
 
-- [Entretiens sur le sida : Zacharia avec B., 21.03.94] 10 528 mots.
-- Contes du site …
+Сказки бамана 
+-------------
+
+С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
+
 - Denɲuman ni Kɔnɔnin, 480 mots
 - Npogotiginin kokɔrɔbɔla, 378 mots
 
-Périodiques
------------
+Периодика
+---------
 
 Jama
 ....
