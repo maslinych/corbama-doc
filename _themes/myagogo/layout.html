@@ -69,7 +69,7 @@
           {%- endblock %}
           {%- block sidebartoc %}
           <h3>{{ _('Table Of Contents') }}</h3>
-          {{ toctree() }}
+          {{ toctree(maxdepth=1) }}
           {%- endblock %}
         </div>
         <div class="clearer"></div>

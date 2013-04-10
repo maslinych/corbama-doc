@@ -19,6 +19,7 @@
    :hidden:
 
    Поиск в корпусе <http://maslinsky.spb.ru/bonito/run.cgi/first_form>
+   Главная <http://maslinsky.spb.ru/corbama>
    about-ru
    ideology-ru
    tools-ru
@@ -26,5 +27,5 @@
    docindex
    news 
 
-.. include:: docindex.rst
 .. include:: news.rst
+
