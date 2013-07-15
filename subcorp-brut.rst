@@ -1,14 +1,15 @@
 ﻿Состав подкорпуса с неснятой омонимией
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 mots.
+- Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 mots.
 - Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 mots.
-- Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 mots.
 - Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
 - Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 mots.
-- Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 mots.
 - Konatɛ, Musa. Baru n'a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 mots.
 - Layidu Kɔrɔ (Ancien Testament), 754164 mots.
-- Maléfices et manigances: Chroniques maliennes. G.Dumestre, Seydou Touré. 114872 mots.
+- Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 mots.
+- Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 mots.
 
 Сказки бамана 
 -------------
@@ -22,42 +23,10 @@
 Радиопередачи
 -------------
 
-- Radio Mali, visite de Gescard d’Estaing, fév. 1977, 1657 mots.
-- Radio Mali, bulletin de soir, 15.01.1993, 4027 mots.
-- Radio Mali, bulletin de soir, 27.01.1993, 3543 mots.
 - Radio Moscou, bulletin de nouvelles, 20.10.1987, 2228 mots.
 
 Периодика
 ---------
-
-Faso kan
-........
-
-2009
-
-- août: 782 mots
-- septembre: 1881 mots
-
-2010
-
-- août: 1117 mots
-- septembre: 1828 mots
-- octobre: 1754 mots
-- novembre: 101 mots
-
-2011
-
-- janvier: 587
-- février: 433
-- mars: 1135
-- avril: 1135
-- mai: 950
-- juin: 271
-- juillet: 939
-- août: 386
-- septembre: 124
-- octobre: 349
-- novembre: 1296
 
 Jɛkabaara
 .........
@@ -89,12 +58,50 @@ Jɛkabaara
 - No. 295, 6138 mots
 - No. 296, 7661 mots
 
+
+Faso kan
+........
+
+2010
+
+- août: 1117 mots
+- septembre: 1828 mots
+- octobre: 1754 mots
+- novembre: 101 mots
+
+2011
+
+- janvier: 587
+- février: 433
+- mars: 1135
+- avril: 1135
+- mai: 950
+- juin: 271
+- juillet: 939
+
+- août: 386
+- septembre: 124
+- octobre: 349
+- novembre: 1296
+
 Kibaru
 ........
 
-- No. 439, 9150 mots
-- No. 461, 10564 mots
-- No. 462, 11229 mots
-- No. 464, 10301 mots
-- No. 466, 11382 mots
-- No. 467, 11079 mots
+No. 385, 8567 mots
+No. 386, 10282 mots
+No. 387, 9729 mots
+No. 388, 9146 mots
+No. 389, 9738 mots
+No. 390, 9958 mots
+No. 391, 9917 mots
+No. 392, 9571 mots
+No. 393, 9369 mots
+No. 394, 9306 mots
+No. 395, 9464 mots
+No. 396, 10174 mots
+No. 439, 9150 mots
+No. 461, 10564 mots
+No. 462, 11229 mots
+No. 464, 10301 mots
+No. 466, 11382 mots
+

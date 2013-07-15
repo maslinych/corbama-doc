@@ -1,6 +1,40 @@
 Новости
 =======
 
+Выпуск 2013.07
+~~~~~~~~~~~~~~
+
+Состав корпусов:
+
+Общий объём Корпуса составил 1609187 слов, в том числе:
+
+Подкорпус со снятой омонимией достиг объёма 209875 слов. Добавлены тексты:
+
+* Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 mots.
+* Dukure, Mamadu. Fatɔya ni jigiya. Dakar: UNESCO-Regional Office for Education in Africa, 1988, 43 p., 13666 mots.
+* Kamara, Mamadu. Weleli. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 1354 mots.
+* Sous l’orage. Pièce de théatre, lycée Askiya Muhamed, adapté du livre de S.B.Kouyaté (Transcrit par G.Dumestre). 6187 mots.
+* Tarawele, Dramane. Faciyɛn. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 7479 mots.
+* Периодика:
+    - блог Fasokan 2013_05, 338 mots
+    - ежемесячник Kibaru № 467, 11079 mots
+* Радиопередачи:
+    - Radio Mali, visite de Gescard d’Estaing, fév. 1977, 1657 mots.
+    - Radio Mali, bulletin de soir, 15.01.1993, 4027 mots.
+    - Radio Mali, bulletin de soir, 27.01.1993, 3543 mots.
+
+Подкорпус с неснятой омонимией составил 1399312 слов.
+
+Добавлены тексты:
+
+* Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 mots.
+* Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 mots.
+* Периодика: Kibaru No. 385—396.
+
+Исправления:
+
+ * В подкорпусе со снятой омонимией исправлены многочисленные ошибки глоссирования служебного слова ka (INF, OPT, QOUT, POSS).
+
 Выпуск 2013.04
 ~~~~~~~~~~~~~~
 
