@@ -152,4 +152,4 @@ doctest:
 	@echo "Testing of doctests in the sources finished, look at the " \
 	      "results in $(BUILDDIR)/doctest/output.txt."
 install:
-	rsync -avP --stats --delete-after _build/html/ root@theschool:/var/www/corbama-doc/ru/html/
+	rsync -avP --stats --delete-after _build/html/ root@maslinsky:/var/www/corbama-doc/ru/html/
