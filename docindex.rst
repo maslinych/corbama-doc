@@ -1,6 +1,9 @@
 Документация
 ============
 
+:download:`Инструкция по поиску в корпусе (PDF) <./corbama-guide.pdf>`
+
+
 .. toctree::   
    :titlesonly:
 
