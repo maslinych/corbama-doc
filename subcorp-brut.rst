@@ -1,17 +1,17 @@
 ﻿Состав подкорпуса с неснятой омонимией
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
-- Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
-- Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
-- Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
-- Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
-- Konatɛ, Musa. Baru n'a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
-- Layidu Kɔrɔ (Ancien Testament), 754164 слов.
-- Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
-- Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 слов.
-- Sisɔkɔ, Jeli Baba. Lamidu Soma Nyakate. Bamako: Éditions-Impriméries du Mali, 1986, 16042 слов.
-- Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 7973 слов
+* Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
+* Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
+* Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+* Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
+* Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
+* Konatɛ, Musa. Baru n'a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
+* Layidu Kɔrɔ (Ancien Testament), 754164 слов.
+* Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
+* Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 слов.
+* Sisɔkɔ, Jeli Baba. Lamidu Soma Nyakate. Bamako: Éditions-Impriméries du Mali, 1986, 16042 слов.
+* Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 7973 слов
 
 Сказки бамана 
 -------------
