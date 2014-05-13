@@ -37,6 +37,8 @@
 
 - Jara, Umaru Ɲanankɔrɔ. Dununba kumata. Paris: Donniyakadi, 2011, 2152 слов.
 - Jara, Umaru Ɲanankɔrɔ. Juman nɔrɔla. 4905 слов
+– Görög-Karady, Veronika; Meyer, Gérard. Contes bambara. Mali et Sénégal Oriental. Paris, Fleuve et Flamme, 1985, 174 p., 11733 слов.
+
 
 С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
 
@@ -95,6 +97,8 @@ Faso kan
 
 Kibaru
 ------
-2010
-№ 467: 11079 слов
+
+2010:
+
+- № 467: 11079 слов
 
