@@ -5,10 +5,10 @@
 – Denw ka balo. DNAFLA, 455 слов.
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
 - Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
-- Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+– Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
+– Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
 - Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
-- Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
-- Konatɛ, Musa. Baru n'a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
+– Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. Alihaji Modibo Jara bolo. 2011, 307 p. Suran 1, 2, 4, 5, 6. 38 741 слов.
 - Layidu Kɔrɔ (Ancien Testament), 754164 слов.
 - Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 - Sar, Mamadu. Poyi ko di sa? [Bamakɔ,] 1977, 8369 слов.
@@ -92,31 +92,38 @@ Faso kan
 Kibaru
 ........
 
-- No. 385, 8567 слов
-- No. 386, 10282 слов
-- No. 387, 9729 слов
-- No. 388, 9146 слов
-- No. 389, 9738 слов
-- No. 390, 9958 слов
-- No. 391, 9917 слов
-- No. 392, 9571 слов
-- No. 393, 9369 слов
-- No. 394, 9306 слов
-- No. 395, 9464 слов
-- No. 396, 10174 слов
-- No. 439, 9150 слов
-- No. 461, 10564 слов
-- No. 462, 11229 слов
-- No. 464, 10301 слов
-- No. 466, 11382 слов
+- No. 151, Oct. 1986, 4985 слов
+- No. 313, Fev. 1998, 9099 слов
+- No. 385, Fev. 2004, 8567 слов
+- No. 386, Mars 2004, 10282 слов
+- No. 387, Avr. 2004, 9729 слов
+- No. 388, Mai 2004, 9146 слов
+- No. 389, Juin 2004, 9738 слов
+- No. 390, Jillet 2004, 9958 слов
+- No. 391, Août 2004, 9917 слов
+- No. 392, Sept. 2004, 9571 слов
+- No. 393, Oct. 2004, 9369 слов
+- No. 394, Nov. 2004, 9306 слов
+- No. 395, Dec. 2004, 9464 слов
+- No. 396, Janv. 2005, 10174 слов
+- No. 439, Août 2008, 9150 слов
+- No. 461, Juin 2010, 10564 слов
+- No. 462, Juillet 2010, 11229 слов
+- No. 464, Sept. 2010, 10301 слов
+- No. 466, Nov. 2010, 11382 слов
 
 Kolonkisɛ
 .........
 
-- No. 10, 1998, 3770 слов
-
+- No. 10, Fev. 1998, 3770 слов
+      
 Saheli
-......
+...... 
 
-- No. 4, 1994, 6719 слов
-
+- No. 00, nov. 1993, 6903 слов
+- No. 01, janv. 1994, 8186 слов
+- No. 03, mars 1994, 7703 слов
+- No. 04, avril 1994, 6719 слов
+- No. 05, mai 1994, 7964 слов
+- No. 07, juillet 1994, 7149 слов
+- No. 08, août 1994, 6708 слов

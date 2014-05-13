@@ -1,6 +1,69 @@
 Новости
 =======
 
+Выпуск 2014.05
+~~~~~~~~~~~~~~
+
+**Состав корпусов**:
+
+Общий объем корпуса составил 1855367 слов, в том числе:
+
+Подкорпус со снятой омонимией достиг объёма 290263 слова. Добавлены тексты книг:
+
+* Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
+* Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
+* Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов (убрать из неснятого подкорпуса!)
+* Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов. (убрать из неснятого подкорпуса!)
+* Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов. (убрать из неснятого подкорпуса!)
+* Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
+
+Сказки:
+
+* Bambéra, Taïrou. Faamanjè ni Faantannjè. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 11-89. 13041 слов.
+* Fane, Baba. Cikèla ni bara. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 123-132. 8856 слов.
+* Diarra, Ousamane. Sama ni jugunin. (une conte transcrite par Monika Zeutschel). 816 слов.
+* Sangare, Cèman. Suruku ni kònyòmusow. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. ?? 4330 слов.
+
+
+Периодика:
+
+* Kibaru 1, Mar. 1972, 1940 слов
+* Kibaru 12, Feb. 1973, 2486 слов
+* Kibaru 17, Juillet 1973, 2771 слов
+* Kibaru 41, Juillet 1975, 2870 слов
+* Kibaru 52, Juin 1976, 2508 слов
+* Kibaru 65, Juillet 1977, 1765 слов
+
+Подкорпус с неснятой омонимией достиг объёма 1565104 слов.
+
+Добавлены тексты книг:
+
+* Denw ka balo. Bamakɔ: DNAFLA-ODIK, 4 p., 455 слов.
+* Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
+* Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
+* Sar, Mamadu. Poyi ko di sa? 1977, 62 p., 8369 слов.
+* Jara, Alihaji Modibo. Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. 2011, 307 p. Suran 1, 2, 4, 5, 6. 38 741 слов.
+
+Периодические издания:
+
+* Kibaru 151, Oct. 1986, 4985 слов
+* Kibaru 313, Feb. 1998, 9099 слов
+
+* Kolonkisɛ 10, Feb. 1998, 3770 слов
+
+* Saheli 00, nov. 1993, 6903 слов
+* Saheli 01, janv. 1994, 8186 слов
+* Saheli 03, mars 1994, 7703 слов
+* Saheli 04, avril 1994, 6719 слов
+* Saheli 05, mai 1994, 7964 слов
+* Saheli 07, juillet 1994, 7149 слов
+* Saheli 08, août 1994, 6708 слов
+
+**Аннотация**:
+
+* Сделаны многочисленные исправления в глоссировании.
+* Исправлен алгоритм добавления вариантов к леммам. В предыдущих версиях добавление не срабатывало для измененных (неначальных) словоформ.
+
 Выпуск 2013.12
 ~~~~~~~~~~~~~~
 
