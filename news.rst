@@ -8,7 +8,7 @@
 
 Общий объем корпуса составил 1855367 слов, в том числе:
 
-Подкорпус со снятой омонимией достиг объёма 290263 слова. Добавлены тексты книг:
+**Подкорпус со снятой омонимией** достиг объёма 290263 слова. Добавлены тексты книг:
 
 * Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
 * Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
@@ -34,7 +34,7 @@
 * Kibaru 52, Juin 1976, 2508 слов
 * Kibaru 65, Juillet 1977, 1765 слов
 
-Подкорпус с неснятой омонимией достиг объёма 1565104 слов.
+**Подкорпус с неснятой омонимией** достиг объёма 1565104 слов.
 
 Добавлены тексты книг:
 
