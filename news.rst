@@ -12,9 +12,9 @@
 
 * Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
 * Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
-* Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов (убрать из неснятого подкорпуса!)
-* Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов. (убрать из неснятого подкорпуса!)
-* Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов. (убрать из неснятого подкорпуса!)
+* Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+* Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
+* Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
 * Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
 
 Сказки:
