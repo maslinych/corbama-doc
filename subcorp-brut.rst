@@ -7,7 +7,7 @@
 - Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
 – Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
 – Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
-- Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
+- Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 – Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. Alihaji Modibo Jara bolo. 2011, 307 p. Suran 1, 2, 4, 5, 6. 38 741 слов.
 - Layidu Kɔrɔ (Ancien Testament), 754164 слов.
 - Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
