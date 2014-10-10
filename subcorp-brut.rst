@@ -5,16 +5,26 @@
 – Denw ka balo. DNAFLA, 455 слов.
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
 - Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
+- Jabatɛ, Jeli Jafe. Genkurunin (Cɛfarinmaana). Bamakɔ: EDIS, 2007, 127 p., 19827 слов.
+- Jabatɛ, Jeli Jafe. Ŋɛɲɛkɔrɔ ka Tonnkan (Cɛfarinmaana). EDIS, 2007, 267 p., 47469 слов + Samaseku, Adama. Ɲɛbila, 512 слов.
 – Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
-– Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
-- Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 – Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. Alihaji Modibo Jara bolo. 2011, 307 p. Suran 1, 2, 4, 5, 6. 38 741 слов.
+- Kulubali, Adama Jɔkolon. Ɲakurunin. Bamakɔ: EDIS, 2007, 66 p., 9024 слов.
+- Kuyatɛ, Worokiya. Nsiirin. Bamakɔ: EDIS, 2010, 6255 слов.
 - Layidu Kɔrɔ (Ancien Testament), 754164 слов.
-- Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
-- Sar, Mamadu. Poyi ko di sa? [Bamakɔ,] 1977, 8369 слов.
+- Ɲare, Sanba. Kanuya wale. 1. Dajuru. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010. 14716 слов.
+- Ɲare, Sanba. Kanuya wale. 2. Parantikɛ. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 15813 слов.
+- Ɲare, Sanba. Kanuya wale. 3. Firiyatɔw. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 13688 слов.
+- Ɲare, Sanba. Masasi. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 11670 слов.
+- Ɲare, Sanba. Ntomokun. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 10733 слов.
+— Sar, Mamadu. Poyi ko di sa? [Bamakɔ,] 1977, 8369 слов.
 - Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 слов.
 - Sisɔkɔ, Jeli Baba. Lamidu Soma Nyakate. Bamako: Éditions-Impriméries du Mali, 1986, 16042 слов.
 - Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 7973 слов
+- Tarawele, Daramani. Tabusire 1. Bamakɔ, EDIS, 2010, 7220 слов.
+- Tarawele, Daramani. Tabusire 2. Bamakɔ, EDIS, 2010, 12 592 слов.
+- Tɛra, Jɔbu. Donso Mamari. Bamakɔ, EDIS, 2010, 7331 слов.
+
 
 Сказки бамана 
 -------------
@@ -62,7 +72,7 @@ Jɛkabaara
 - No. 294, 7859 слов
 - No. 295, 6138 слов
 - No. 296, 7661 слов
-
+- No. 328, 8137 слов 
 
 Faso kan
 ........
@@ -92,38 +102,41 @@ Faso kan
 Kibaru
 ........
 
-- No. 151, Oct. 1986, 4985 слов
-- No. 313, Fev. 1998, 9099 слов
-- No. 385, Fev. 2004, 8567 слов
-- No. 386, Mars 2004, 10282 слов
-- No. 387, Avr. 2004, 9729 слов
-- No. 388, Mai 2004, 9146 слов
-- No. 389, Juin 2004, 9738 слов
-- No. 390, Jillet 2004, 9958 слов
-- No. 391, Août 2004, 9917 слов
-- No. 392, Sept. 2004, 9571 слов
-- No. 393, Oct. 2004, 9369 слов
-- No. 394, Nov. 2004, 9306 слов
-- No. 395, Dec. 2004, 9464 слов
-- No. 396, Janv. 2005, 10174 слов
-- No. 439, Août 2008, 9150 слов
-- No. 461, Juin 2010, 10564 слов
-- No. 462, Juillet 2010, 11229 слов
-- No. 464, Sept. 2010, 10301 слов
-- No. 466, Nov. 2010, 11382 слов
+No. 81, Nov. 1978, 3888 слов
+No. 89, Juillet 1979, 2817 слов
+No. 101, Juillet 1980, 4038 слов
+No. 113, Juillet 1981, 3720 слов
+No. 151, Oct. 1986, 4985 слов
+No. 313, Fev. 1998, 9099 слов
+No. 385, Fev. 2004, 8567 слов
+No. 386, Mars 2004, 10282 слов
+No. 387, Avr. 2004, 9729 слов
+No. 388, Mai 2004, 9146 слов
+No. 389, Juin 2004, 9738 слов
+No. 390, Jillet 2004, 9958 слов
+No. 391, Août 2004, 9917 слов
+No. 392, Sept. 2004, 9571 слов
+No. 393, Oct. 2004, 9369 слов
+No. 394, Nov. 2004, 9306 слов
+No. 395, Dec. 2004, 9464 слов
+No. 396, Janv. 2005, 10174 слов
+No. 439, Août 2008, 9150 слов
+No. 461, Juin 2010, 10564 слов
+No. 462, Juillet 2010, 11229 слов
+No. 464, Sept. 2010, 10301 слов
+No. 466, Nov. 2010, 11382 слов
 
-Kolonkisɛ
-.........
+  Kolonkisɛ
+  . . . . . . . . .
+  No. 10, Fev. 1998, 3770 слов
+  
+  Saheli
+  . . . . . . . . . . 
+No. 00, nov. 1993, 6903 слов
+No. 01, janv. 1994, 8186 слов
+No. 03, mars 1994, 7703 слов
+No. 04, avril 1994, 6719 слов
+No. 05, mai 1994, 7964 слов
+No. 07, juillet 1994, 7149 слов
+No. 08, août 1994, 6708 слов
 
-- No. 10, Fev. 1998, 3770 слов
-      
-Saheli
-...... 
-
-- No. 00, nov. 1993, 6903 слов
-- No. 01, janv. 1994, 8186 слов
-- No. 03, mars 1994, 7703 слов
-- No. 04, avril 1994, 6719 слов
-- No. 05, mai 1994, 7964 слов
-- No. 07, juillet 1994, 7149 слов
-- No. 08, août 1994, 6708 слов

@@ -1,6 +1,47 @@
 Новости
 =======
 
+Выпуск 2014.09
+~~~~~~~~~~~~~~
+
+Общий объем корпуса: 1,994,479 слов
+
+* Подкорпус со снятой омонимией: 313,922 слов
+* Подкорпус с неснятой омонимией: 1,680,557 слов
+
+
+**Новые тексты в подкорпусе со снятой омонимией**: 
+
+* Bailleul, Ch.; Dumestre, G.; Vydrine, V. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
+* Trahison de Bakari Dian (par Diéli Baba Sissoko). In : Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979, pp. 61-109. 4771 слов.
+* Bakaridjan ni Bilissi. In : Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979, pp. 111-181, 7156 слов.
+* Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
+* Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
+
+
+**Новые тексты в подкорпусе с неснятой омонимией:**
+
+* Jabatɛ, Jeli Jafe. Genkurunin (Cɛfarinmaana). Bamakɔ: EDIS, 2007, 127 p., 19827 слов.
+* Jabatɛ, Jeli Jafe. Ŋɛɲɛkɔrɔ ka Tonnkan (Cɛfarinmaana). EDIS, 2007, 267 p., 47469 слов + Samaseku, Adama. Ɲɛbila, 512 слов.
+* Kulubali, Adama Jɔkolon. Ɲakurunin. Bamakɔ: EDIS, 2007, 66 p., 9024 слов.
+* Kuyatɛ, Worokiya. Nsiirin. Bamakɔ: EDIS, 2010, 6255 слов.
+* Ɲare, Sanba. Kanuya wale. 1. Dajuru. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010. 14716 слов.
+* Ɲare, Sanba. Kanuya wale. 2. Parantikɛ. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 15813 слов.
+* Ɲare, Sanba. Kanuya wale. 3. Firiyatɔw. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 13688 слов.
+* Ɲare, Sanba. Masasi. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 11670 слов.
+* Ɲare, Sanba. Ntomokun. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 10733 слов.
+* Tarawele, Daramani. Tabusire 1. Bamakɔ, EDIS, 2010, 7220 слов.
+* Tarawele, Daramani. Tabusire 2. Bamakɔ, EDIS, 2010, 12 592 слов.
+* Tɛra, Jɔbu. Donso Mamari. Bamakɔ, EDIS, 2010, 7331 слов.
+
+Периодика:
+
+* Jɛkabaara 328, Feb. 2013, 8137 слов
+* Kibaru 81, Nov. 1978, 3888 слов
+* Kibaru 89, Juillet 1979, 2817 слов
+* Kibaru 101, Juillet 1980, 4038 слов
+* Kibaru 113, Juillet 1981, 3720 слов
+
 Выпуск 2014.05
 ~~~~~~~~~~~~~~
 

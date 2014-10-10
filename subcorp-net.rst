@@ -2,17 +2,21 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 – Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
+- Bailleul, Ch.; Dumestre, G.; Vydrine, V. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 слов.
 - Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 слов.
 – Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
 - Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 слов.
+- Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakaridjan ni Bilissi, pp. 111-181, 7156 слов.
 - Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 слов.
-– Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+   – Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
 - Jaabi, Musa. Ntɛntɛnw n'u jaabiw. Bamako, DNAFLA – OCED, 1993, 27 p., 2442 слов.
 - Kamara, Mamadu. Weleli. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 1354 слов.
+- Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
 – Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 – Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
 - Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 слов.
+- Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 - Meyer, Gérard. Devinettes bambara. Paris : L’Harmattan, 1978.
 - Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 слов.
 – Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
@@ -44,10 +48,14 @@
 - Jara, Umaru Ɲanankɔrɔ. Dununba kumata. Paris: Donniyakadi, 2011, 2152 слов.
 - Jara, Umaru Ɲanankɔrɔ. Juman nɔrɔla. 4905 слов
 – Görög-Karady, Veronika; Meyer, Gérard. Contes bambara. Mali et Sénégal Oriental. Paris, Fleuve et Flamme, 1985, 174 p., 11733 слов 
-– Bambéra, Taïrou. Faamanjè ni Faantannjè. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 11-89. 13041 слов.
-– Fane, Baba. Cikèla ni bara. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 123-132. 8856 слов.
+ – Bambéra, Taïrou. Faamanjè ni Faantannjè. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 11-89. 13041 слов.
+ – Fane, Baba. Cikèla ni bara. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 123-132. 8856 слов.
 – Diarra, Ousamane. Sama ni jugunin. (une conte transcrite par Monika Zeutschel). 816 слов.
-– Sangare, Cèman. Suruku ni kònyòmusow. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. ?? 4330 слов.
+ – Sangare, Cèman. Suruku ni kònyòmusow. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. ?? 4330 слов.
+
+Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes de France, 1979 :
+Donsokè Siriman, p. 104-108, 1591 слов.
+Nanyuman ni cè min yèlèmana ka a a kè sebe ye, p. 39-41, 1139 слов.
 
 
 С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
