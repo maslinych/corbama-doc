@@ -30,7 +30,7 @@
    pubs-ru
    docindex
    news 
-   Bamadaba <http://maslinsky.spb.ru/bamadaba>
+   bamadaba
 
 .. include:: news.rst
 
