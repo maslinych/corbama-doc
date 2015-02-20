@@ -2,7 +2,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Книги:
-– Denw ka balo. DNAFLA, 455 слов.
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
 - Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
 - Jabatɛ, Jeli Jafe. Genkurunin (Cɛfarinmaana). Bamakɔ: EDIS, 2007, 127 p., 19827 слов.
@@ -26,15 +25,6 @@
 - Tɛra, Jɔbu. Donso Mamari. Bamakɔ, EDIS, 2010, 7331 слов.
 
 
-Сказки бамана 
--------------
-
-С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
-
-- Diɲɛ Yaalala, 317 слов.
-- Dɔnkɛsunguru, 280 слов.
-- Sonsannin, Surukuba ani Tonkun Bonbonsima, 493 слов.
-
 Радиопередачи
 -------------
 
@@ -51,6 +41,7 @@ Jɛkabaara
 - No. 13, 3312 слов
 - No. 14, 3599 слов
 - No. 15, 3273 слов
+– No. 180, октябрь 2000, 7263 слов
 - No. 274, 9139 слов
 - No. 276, 9432 слов
 - No. 277, 9410 слов
@@ -72,32 +63,12 @@ Jɛkabaara
 - No. 294, 7859 слов
 - No. 295, 6138 слов
 - No. 296, 7661 слов
+- No. 325, ноябрь 2012, 6263 слов
+- No.  326, декабрь 2012, 5592 слов
+- No.  327, январь 2013, 5094 слов
 - No. 328, 8137 слов 
-
-Faso kan
-........
-
-2010
-
-- août: 1117 слов
-- septembre: 1828 слов
-- octobre: 1754 слов
-- novembre: 101 слов
-
-2011
-
-- janvier: 587
-- février: 433
-- mars: 1135
-- avril: 1135
-- mai: 950
-- juin: 271
-- juillet: 939
-
-- août: 386
-- septembre: 124
-- octobre: 349
-- novembre: 1296
+– No. 329, март 2013, 6335 слов
+– No. 332, апрель 2014, 6501 слов
 
 Kibaru
 ........
@@ -139,4 +110,53 @@ No. 04, avril 1994, 6719 слов
 No. 05, mai 1994, 7964 слов
 No. 07, juillet 1994, 7149 слов
 No. 08, août 1994, 6708 слов
+
+--------------------
+Интернет-материалы
+
+Kunnafoni ka ɲɛsin kɛnɛya baarakɛlaw ma, minnu bɛka Ebola kɛlɛ (сайт dokotoro.org), 527 слов
+
+блог Fasokan
+........
+
+2010
+
+- août: 1117 слов
+- septembre: 1828 слов
+- octobre: 1754 слов
+- novembre: 101 слов
+
+2011
+
+- janvier: 587
+- février: 433
+- mars: 1135
+- avril: 1135
+- mai: 950
+- juin: 271
+- juillet: 939
+- août: 386
+- septembre: 124
+- octobre: 349
+- novembre: 1296
+– декабрь, 533 слов
+    
+2012
+
+– февраль, 768 слов
+– март, 591 слов
+– апрель, 577 слов
+– май, 1306 слов
+– июнь, 334 слов
+– сентябрь, 1475 слов
+– октябрь, 325 слов
+2013
+– май, 764 слов
+– октябрь, 2069 слов
+– декабрь, 871 слов
+2014
+– январь, 1509 слов
+– февраль, 121 слов
+– апрель, 506 слов
+– май, 59 слов
 
