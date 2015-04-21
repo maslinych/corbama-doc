@@ -1,28 +1,30 @@
 ﻿Состав подкорпуса со снятой омонимией
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-– Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
+- Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
 - Bailleul, Ch.; Dumestre, G.; Vydrine, V. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 слов.
+- Bani ɲɛnɛma. Bamako, 1989, 40 p., 6570 слов
 - Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 слов.
-– Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
-– Denw ka balo. DNAFLA, 455 слов
+- Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
+- Denw ka balo. DNAFLA, 455 слов
 - Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 слов.
-- Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakaridjan ni Bilissi, pp. 111-181, 7156 слов. (3) Duga de Koré, pp. 183-263, 8650 слов; (4) Avenement de Da, pp.     265-357, 9241 слов; (5) Biton et les génies, pp. 359-399, 3855 слов
+- Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakaridjan ni Bilissi, pp. 111-181, 7156 слов.
 - Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 слов.
-– Dukure, Mamadu. Ni san cyɛnna jate tɛ kalo la. Bamako: Cauris Éditions - Makdas sɛbɛnca, 2009, 58 p. 7752 слов.
-   – Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+- Dukure, Mamadu. Ni san cyɛnna jate tɛ kalo la. Bamako: Cauris Éditions - Makdas sɛbɛnca, 2009, 58 p. 7752 слов.
+- Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
 - Jaabi, Musa. Ntɛntɛnw n'u jaabiw. Bamako, DNAFLA – OCED, 1993, 27 p., 2442 слов.
 - Kamara, Mamadu. Weleli. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 1354 слов.
 - Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
-– Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
-– Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
+- Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
+- Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
 - Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 слов.
+- Kuranɛ, Suran 1 (100 слов), Suran 2 (16011 слов).
 - Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 - Meyer, Gérard. Devinettes bambara. Paris : L’Harmattan, 1978.
 - Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 слов.
-– Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
-– Sisɔkɔ, Jeli Baba. Lamidu Soma Ɲakate. Ed. par Tera, Kalilu. Bamakɔ, EDIM,1986, 112 p., 15888 слов (предисловие Kalilu Tera, 139 слов)
+- Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
+- Sisɔkɔ, Jeli Baba. Lamidu Soma Ɲakate. Ed. par Tera, Kalilu. Bamakɔ, EDIM,1986, 112 p., 15888 слов (предисловие Kalilu Tera, 139 слов)
 - Sous l’orage. Adapté du livre de Seydou Badian Kouyaté. Pièce de théâtre jouée en bambara par des élèves du Lycée Askia Mohamed, 6187 слов
 - Tarawele, Dramane. Faciyɛn. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 7479 слов.
 - Traore, Ismaila Samba. Hinɛ nana: Réveil d'un paysannat. Keïta, Astan; Théra, Job (éd.). Bamako: Sahélienne, 1992, 119 p., 33 569 слов.
@@ -57,9 +59,26 @@
 – Danba, Fanta. Miniyanba. 315 слов
 – Sangare, Cèman. Suruku ni kònyòmusow. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. ?? 4330 слов.
 
-Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes de France, 1979 :
-Donsokè Siriman, p. 104-108, 1591 слов.
-Nanyuman ni cè min yèlèmana ka a a kè sebe ye, p. 39-41, 1139 слов.
+Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes de France, 1979. Следующие сказки введены в Корпус:
+- Fa ni a ka taman, p. 12-14, 691 слово
+- Kunatòkè ni faama denmuso, p. 19-23, 1655 слов
+- Muso nyininaw ni sanu daga, p. 25-32, 2482 слов
+- Dennin ni mògò yèlèma, p. 34-37, 1363 слов
+- Nanyuman ni cè min yèlèmana ka a a kè sebe ye, p. 39-41, 1139 слов
+- Sinamuso fila: wulu ni shè, p. 43-46, 988 слов
+- Sinamuso fila:jugunin ni nkuman, p. 47-48, 474 слов
+- Sinamuso tagara jinèdugu la, p. 49-51, 1165 слов
+- Falatònin ni toro sun, p. 56-57, 612 слов
+- Nin kèra dennin fila ye, p. 58-61, 1519 слов
+- Dugutigi ye falatònin gwèn, p. 69-71, 791 слов
+- Kungo sogow ye cènin min dèmè, p. 72-77, 2100 слов
+- Ku yèlèmanen ka a kè den ye, p. 89-91, 859 слов
+- Den nyuman ni bòrò saba, p. 93-94, 868 слов
+- Mamadi hòròn ni Mamadi jòn, p. 95-96, 700 слов
+- Waraden min bè fèn bèe faga, p. 102-103, 469 слов
+- Donsokè Siriman, p. 104-108, 1591 слов
+- Sènèkèla ni jinèw, p. 110-111, 565 слов
+
 
 
 С сайта http://uz-translations.net/?category=afraudvid-african&altname=bambara_folk_tales_songs
@@ -89,7 +108,7 @@ Jɛkabaara
 .........
 
 - No. 10, oct. 1986, 3800 слов
-- No. 273, p. 1-4: 2546 слов
+- No. 273, juillet 2008, статьи со снятием омонимии: 5371 слов 
 
 Faso kan
 ........
@@ -119,13 +138,14 @@ Faso kan
 
 - mai: 338 слов
 
+Kalankisɛ, No. 10, февраль 1998, статьи со снятием омонимии: 1663 слов
+
 Kibaru
 ------
 2010
  Kibaru 1, Mar. 1972, 1940 слов
  Kibaru 12, Feb. 1973, 2486 слов
  Kibaru 17, Juillet 1973, 2771 слов
- Kibaru 29, Juillet 1974, 2329 слов
  Kibaru 41, Juillet 1975, 2870 слов
  Kibaru 52, Juin 1976, 2508 слов
  Kibaru 65, Juillet 1977, 1765 слов

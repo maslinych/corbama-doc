@@ -2,12 +2,13 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Книги:
+Bailleul, Charles. Sagesse bambara : Proverbes et sentences. Bamako : Donniya, 2005, 50215 слов
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., 32 423 слов.
 - Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 114872 слов.
 - Jabatɛ, Jeli Jafe. Genkurunin (Cɛfarinmaana). Bamakɔ: EDIS, 2007, 127 p., 19827 слов.
 - Jabatɛ, Jeli Jafe. Ŋɛɲɛkɔrɔ ka Tonnkan (Cɛfarinmaana). EDIS, 2007, 267 p., 47469 слов + Samaseku, Adama. Ɲɛbila, 512 слов.
-– Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
-– Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. Alihaji Modibo Jara bolo. 2011, 307 p. Suran 1, 2, 4, 5, 6. 38 741 слов.
+- Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
+- Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na. Naaniye fɔlɔ. Alihaji Modibo Jara bolo. 2011, 307 p. Ɲɛbila 1,2; Suran 1, 2, 3, 4, 5, 6, 7. 57 756 слов.
 - Kulubali, Adama Jɔkolon. Ɲakurunin. Bamakɔ: EDIS, 2007, 66 p., 9024 слов.
 - Kuyatɛ, Worokiya. Nsiirin. Bamakɔ: EDIS, 2010, 6255 слов.
 - Layidu Kɔrɔ (Ancien Testament), 754164 слов.
@@ -16,7 +17,7 @@
 - Ɲare, Sanba. Kanuya wale. 3. Firiyatɔw. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 13688 слов.
 - Ɲare, Sanba. Masasi. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 11670 слов.
 - Ɲare, Sanba. Ntomokun. Traduction par Jɔbu Tɛra. Bamakɔ: EDIS, 2010, 10733 слов.
-— Sar, Mamadu. Poyi ko di sa? [Bamakɔ,] 1977, 8369 слов.
+- Sar, Mamadu. Poyi ko di sa? [Bamakɔ,] 1977, 8369 слов.
 - Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 7900 слов.
 - Sisɔkɔ, Jeli Baba. Lamidu Soma Nyakate. Bamako: Éditions-Impriméries du Mali, 1986, 16042 слов.
 - Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 7973 слов
@@ -35,14 +36,17 @@
 
 Jɛkabaara
 .........
-
+- No. 3, март 1986, 4121 слов
 - No. 11, 3390 слов
 - No. 12, 3461 слов
 - No. 13, 3312 слов
 - No. 14, 3599 слов
 - No. 15, 3273 слов
-– No. 180, октябрь 2000, 7263 слов
+- No. 25, январь 1988, 5617 слов
+- No. 35-36, nov.-dec. 1988, 5617 слов
+- No. 180, октябрь 2000, 7263 слов
 - No. 274, 9139 слов
+- No. 273, июль 2998, статьи без снятия омонимии: 3698 слов
 - No. 276, 9432 слов
 - No. 277, 9410 слов
 - No. 278, 9417 слов
@@ -57,6 +61,7 @@ Jɛkabaara
 - No. 287, 7548 слов
 - No. 289, 8193 слов
 - No. 290, 6966 слов
+
 - No. 291, 5791 слов
 - No. 292, 7168 слов
 - No. 293, 6353 слов
@@ -77,8 +82,19 @@ No. 81, Nov. 1978, 3888 слов
 No. 89, Juillet 1979, 2817 слов
 No. 101, Juillet 1980, 4038 слов
 No. 113, Juillet 1981, 3720 слов
+№ 125, juillet 1982, 4035 слов
+№ 141, nov. 1983, 4286 слов
 No. 151, Oct. 1986, 4985 слов
+№ 204, janv. 1989, 4953 слов
+№ 215, dec. 1989, 2485 слов
+№ 239, dec. 1991, 2598 слов
+№ 309, oct. 1997, 9349 слов
 No. 313, Fev. 1998, 9099 слов
+№ 344, sept. 2000, 10625 слов
+№ 356, sept. 2001, 9564 слов
+№ 368, sept. 2002, 9464 слов
+№ 380, sept. 2003, 9410 слов
+№ 384, janv. 2004, 10521 слов
 No. 385, Fev. 2004, 8567 слов
 No. 386, Mars 2004, 10282 слов
 No. 387, Avr. 2004, 9729 слов
@@ -91,6 +107,7 @@ No. 393, Oct. 2004, 9369 слов
 No. 394, Nov. 2004, 9306 слов
 No. 395, Dec. 2004, 9464 слов
 No. 396, Janv. 2005, 10174 слов
+№ 405, oct. 2005, 9464 слов 
 No. 439, Août 2008, 9150 слов
 No. 461, Juin 2010, 10564 слов
 No. 462, Juillet 2010, 11229 слов
