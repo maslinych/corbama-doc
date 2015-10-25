@@ -1,6 +1,61 @@
 Новости
 =======
 
+Выпуск 2015.10
+~~~~~~~~~~~~~~
+
+Общий объем корпуса: 2,819,474 слов
+
+* Подкорпус со снятой омонимией: 426,813 слов
+* Подкорпус с неснятой омонимией: 2,392,661 слов
+
+**Изменения в аннотации**:
+
+* глосса PTCP.PROG (прогрессивное причастие) заменена на CONV.PROG (прогрессивное деепричастие)
+* глосса POSS заменена на CNTRL
+
+**Новые тексты в подкорпусе со снятой омонимией:**
+
+* Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
+* Sisoko, Jeli Baba. Daa ka Kòrè kèlè. Bamako: EDIM, 1977, 19452 слов.
+* Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993.
+    * Ja bè se ka kèlè cogo di ? 221 слов.
+    * Daga ni kolon. 204 слова.
+    * Tulogeren saba. 735 слов
+
+**Новые тексты в подкорпусе с неснятой омонимией:**
+
+* Baganmisen lamaracogo (Sagaw ni baw). Bamakɔ, Inades-Formation, 1991, 12054 слов.
+* Bagayogo, Cemogo; Coulibaly, Daniel. Dugukolonɔn kɛlɛli cogo. Inades-Formation. 7608 слов.
+* Baro nafamaw: Afɛmu musow ka gafe filanan. Bamakɔ: Association des Femmes Educatrices du Mali - UNICEF/Mali, 1593 слов.
+* Diarra, Justin. Etapes de la vie de l'homme Bambara dans la societe traditionnelle (Cɛ sigidamaw). Falajɛ: C.E.L. (1989), 6752 слов.
+* Duguyiriwa tɔn tɛmɛsiraw. Bamakɔ, ODIK, 1990, 15 p., 775 слов.
+* Dunbiya, Siyaka. Waleɲumandɔnbaliya. Bamakɔ: Jamana, 1997, 742 слов.
+* Hayidara-Maha, Mahamadu. Jɛgɛnin. Traduit par Jara, Yala. Bamako: Imprimérie Mali-Offset, 1997, 5566 слов.
+* Jakite, Mamadu. Dɔlɔminbana. Bamakɔ: DNAFLA - LHVN – USAID, 1993, 38 p., 6425 слов.
+* Jara, Usumani; Jara, Yakuba. Baganw ka minnɔgɔlaminɛ taamajan. Bamakɔ: Le figuier, 1996, 762 слов.
+* Jarasuba, Caka. Diden lakalilen denmisɛnninw ye. Bamakɔ: Fayida, 1441 слов.
+* Kamara, Bakari; Tera, Jɔb; Traore, Abdul Karim; Jalo, Famori. Baganlafa. Bamakɔ: Sahélienne, 2249 слов.
+* Kamara, Idirisa. Donon kasira (Poyi). Bamakɔ: Sahelienne, 1996. 3527 слов.
+* Kamisɔkɔ, Fajala Sanfin. Balikukalan man kɛnɛ (ɲɔgɔlɔn). Bamakɔ: Sahelienne, 1996. 5942 слов.
+* Kènèya sabatili walew. Kolokani, DNAFLA-AFVP, 9251 слов.
+* Musokònòma ka banaw. Bamakɔ, 495 слов.
+* Musow ka baaraw Kaarata mara kɔnɔ. Bamakɔ: DNAFLA-ODIK, 1992, 919 слов.
+* Tarawele, Daramani. Baganlatɔlɔla: Misi ni saga. Bamakɔ: Kalan Diya, 2006, 6445 слов.
+* Tarawele, Daramani. Batigɛmisi. Bamakɔ: EDIM S.A., 1996, 13745 слов.
+* Tɔn ɲɛmɔgɔw ka baaraw. Bamakɔ: DNAFLA – ODIK, 1993, 1004 слов.
+ 
+Периодика:
+
+Jɛkabaara
+
+* № 43, июль 1989, 6287 слов
+ 
+Kibaru
+
+* № 62, апрель 1977, 1318 слов
+
+
 Выпуск 2015.04
 ~~~~~~~~~~~~~~
 

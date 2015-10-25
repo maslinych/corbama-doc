@@ -56,3 +56,18 @@
 Подробнее о Корпусе (по состоянию дел на начало 2011 года) см.:
 
 Выдрин В.Ф. Электронный глоссированный корпус текстов языка бамана: первый этап. Mandeica Petropolitana II. Ред. В. Ф. Выдрин. СПб.: Изд-во «Наука», 2011. С. 343-380. (ACTA LINGUISTICA PETROPOLITANA. Труды Института лингвистических исследований РАН. Отв. редактор Н. Н. Казанский. Т. VII. Ч. 2.) http://mandelang.kunstkamera.ru/files/mandelang/vydrin_trudy_ili2011.pdf
+
+
+.. toctree::
+   
+   Поиск в корпусе <http://maslinsky.spb.ru/bonito/run.cgi/first_form>
+   Главная <http://maslinsky.spb.ru/corbama>
+   about-ru
+   ideology-ru
+   tools-ru
+   pubs-ru
+   docindex
+   news 
+   bamadaba
+
+
