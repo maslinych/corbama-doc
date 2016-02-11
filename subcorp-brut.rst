@@ -47,19 +47,21 @@
 
 Тексты песен:
 -------------
-- Bagayogo, Amadou & Doumbia, Mariam. Tubalakɔnɔ. 520 слов.
-- Diawara, Fatoumata. Boloko. 478 слов.
+
+- Bagayogo, Amadou & Doumbia, Mariam. Tubalakɔnɔ. 553 слов.
+- Diawara, Fatoumata. Boloko. 430 слов.
 - Diawara, Fatoumata. KANU. 341 слов.
 - Diawara, Fatoumata. Timbuktu Faso. 200 слов.
-- Doucouré, Ismaïla, dit Master Soumy. Explique ton Islam. 1132 слов.
-- Keïta, Salif. Folon. 187 слов.
-- Keïta, Salif. Papa. 515 слов.
-- Koïté, Habib. Maliba. 251 слов.
-- Koïté, Habib. Masakɛ. 301 слов.
-- Sangaré, Oumou. JARABI NƐNƐ. 321 слов.
-- Sissoko, Baba. A BOLILA. 262 слов.
-- Traoré, Rokia. DUƝA. 327 слов.
-- Traoré, Rokia. Wanita. 374 слов.
+- Doucouré, Ismaïla, dit Master Soumy. Explique ton Islam. 955 слов.
+- Keïta, Salif. Folon. 138 слов.
+- Keïta, Salif. Papa. 413 слов.
+- Koïté, Habib. Maliba. 226 слов.
+- Koïté, Habib. Masakɛ. 296 слов.
+- Sangaré, Oumou. JARABI NƐNƐ. 354 слов.
+- Sissoko, Baba. A BOLILA. 240 слов.
+- Traoré, Rokia. DUƝA. 316 слов.
+- Traoré, Rokia. Wanita. 321 слов.
+
 
 
 Радиопередачи
