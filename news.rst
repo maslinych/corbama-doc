@@ -1,6 +1,137 @@
 Новости
 =======
 
+Выпуск 2016.02
+~~~~~~~~~~~~~~
+
+Общий объем корпуса: 2,823,480 слов
+
+* Подкорпус со снятой омонимией: 492,296 слов
+* Подкорпус с неснятой омонимией: 2,331,184 слов
+
+**Новые тексты в подкорпусе со снятой омонимией:**
+
+* Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres 2d (4952 слов), 2e (14818 слов), 2f (2599 слов).
+* Berson, Anne; Traoré, Aminata. Ka sigidalafɛn duntaw matarafa walasa ka an ka baloko ɲuman sabati / Consommer la biodiversité locale pour mieux se nourrir. Sikasso: COFERSA-BEDE, 2014-2015, 32 p., 5415 слов http://www.bede-asso.org/wp-content/uploads/2016/01/Consommer-biodiversite-locale-pour-mieux-se-nourrir-COFERSA-BEDE-version-reduite-web.pdf
+* Jakite, Mamadu. Dɔlɔminbana. Bamako : DNAFLA - LHVN – USAID, 1993, 38 p. (6425 слов).
+    
+* Kuranɛ, Suran 3 (8399 слов).
+* Kuranɛ, Suran 4 (9058 слов).
+    
+Тексты песен:
+
+* Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 744 слов.
+    
+Периодика:
+
+Kibaru
+
+- № 13, Mars 1973, 3286 слов
+- № 527, декабрь 2015, 10900 слов
+ 
+**Новые тексты в подкорпусе с неснятой омонимией:**
+
+* Bɛnkansɛbɛn min bɔra Alize sigikafɔw la ka ɲɛsin basigi ni bɛnɲinini ma Mali kɔnɔ (accord d’Alger). 2015, 9707 слов.
+    
+* Kuranɛ, Suran 5, 6764 слов; Suran 6, 7225 слов; 90-114, 3657 слов
+    
+Тексты песен:
+
+- Bagayogo, Amadou & Doumbia, Mariam. Tubalakɔnɔ. 520 слов.
+- Diawara, Fatoumata. Boloko. 478 слов.
+- Diawara, Fatoumata. KANU. 341 слов.
+- Diawara, Fatoumata. Timbuktu Faso. 200 слов.
+- Doucouré, Ismaïla, dit Master Soumy. Explique ton Islam. 1132 слов.
+- Keïta, Salif. Folon. 187 слов.
+- Keïta, Salif. Papa. 515 слов.
+- Koïté, Habib. Maliba. 251 слов.
+- Koïté, Habib. Masakɛ. 301 слов.
+- Sangaré, Oumou. JARABI NƐNƐ. 321 слов.
+- Sissoko, Baba. A BOLILA. 262 слов.
+- Traoré, Rokia. DUƝA. 327 слов.
+- Traoré, Rokia. Wanita. 374 слов.
+    
+Периодика:
+
+Kibaru
+
+- № 2, avril 1972, 1992 слов
+- № 14, avril 1973, 1583 слов
+- № 15, mai 1973, 2576 слов
+- № 16, juin 1973, 1979 слов
+- № 18, août 1973, 2639 слов
+- № 19, septembre 1973, 2617 слов
+- № 20, octobre 1973, 2831 слов
+- № 21, novembre 1973, 2819 слов
+- № 22, décembre 1973, 1447 слов
+- № 23, janvier 1974, 2912 слов
+- № 24, février 1974, 2810 слов
+- № 25, mars 1974, 1894 слов
+- № 26, avril 1974, 2305 слов
+- № 27, mai 1974, 2609 слов
+- № 28, juin 1974, 2309 слов
+- № 31, sept. 1974, 2331 слов
+- № 32, octobre 1974, 2823 слов
+- № 33, novembre 1974, 2345 слов
+- № 34, décembre 1974, 1233 слов
+- № 35, janvier 1975, 3103 слов
+- № 36, février 1975, 2006 слов
+- № 37, mars 1975, 2484 слов
+- № 38, avril 1975, 2679 слов
+- № 39, mai 1975, 2918 слов
+- № 40, juin 1975, 2495 слов
+- № 42, août 1975, 2450 слов
+- № 43, septembre 1975, 2417 слов
+- № 44, octobre 1975, 2508 слов
+- № 45, novembre 1975, 1772 слов
+- № 46, décembre 1975, 1174 слов
+- № 47, janvier 1976, 2789 слов
+- № 48, février 1976, 2275 слов
+- № 49, mars 1976, 2622 слов
+- № 50, avril 1976, 1548 слов
+- № 54, août 1976, 1319 слов
+- № 55, septembre 1976, 2536 слов
+- № 56, octobre 1976, 1313 слов
+- № 57, novembre 1976, 1274 слов
+- № 58, décembre 1976, 431 слов
+- № 60, février 1977, 1277 слов
+- № 63, mai 1977, 1261 слов
+- № 64, juin 1977, 1834 слов
+- № 66, août 1977, 1719 слов
+- № 67, septembre 1977, 4496 слов
+- № 68, octobre 1977, 3894 слов
+- № 69, novembre 1977, 4269 слов
+- № 70, décembre 1977, 2969 слов
+- № 71, janvier 1978, 4319 слов
+- № 72, février 1978, 4291 слов
+- № 73, mars 1978, 2257 слов
+- № 74, avril 1978, 2599 слов
+- № 75, mai1978, 2550 слов
+- № 76, juin 1978, 2228 слов
+- № 80, octobre 1978, 4094 слов
+- № 82, décembre 1978, 1928 слов
+- № 85, mars 1979, 4152 слов
+- № 87, mai 1979, 3223 слов
+- № 96, fevrier 1980, 3532 слов
+- № 97, mars 1980, 3902 слов
+- № 99, mai 1980, 4370 слов
+- № 100, juin 1980, 4998 слов
+- № 105, novembre 1980, 2055 слов
+- № 106, décembre 1980, 1814 слов
+- № 121, mars 1982, 4081 слов
+- № 124, juin 1982, 3450 слов
+- № 126, août 1982, 3631 слов
+- № 127, septembre 1982, 4227 слов
+- № 128, octobre 1982, 5192 слов
+- № 192-193, janvier-février 1988, 7380 слов
+- № 205, février 1989, 5698 слов
+- № 206, mars 1989, 4903 слов
+- № 207, avr. 1989, 4153 слов
+- № 208, mai 1989, 3892 слов
+- № 210, juillet 1989, 4517 слов
+- № 212, sept. 1989, 2517 слов
+- № 258, juillet 1993, 4209 слов
+
 Выпуск 2015.10
 ~~~~~~~~~~~~~~
 
