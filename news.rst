@@ -1,6 +1,101 @@
 Новости
 =======
 
+Выпуск 25 июня 2016
+~~~~~~~~~~~~~~~~~~~
+
+Общий объем корпуса: 3 046 704 слов
+
+• Подкорпус со снятой омонимией:  563 190 слов
+• Подкорпус с неснятой омонимией: 2 483 514 слов
+
+Проведена чистка подкорпуса со снятой омонимией, устранены многочисленные ошибки в аннотации.
+
+**Новые тексты в подкорпусе со снятой омонимией:**
+
+* Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres 1 (4435 слов), 2a (4559 слов), 2b (6120 слов), 2c (10925 слов).
+* Jara, Usumani; Jara, Yakuba. Baganw ka minnɔgɔlaminɛ taamajan. Bamakɔ: Le figuier, 1996, 762 слов.
+* Kamara, Idirisa. Donon kasira (Poyi). Bamakɔ: Sahelienne, 1996. 3527 слов.
+* Kuranɛ, Suran 5, 6942 слов
+
+Сказки бамана:
+
+*   Jara, Umaru Ɲanankɔrɔ. Juguya sara. 650 слов.
+*   Jara, Umaru Ɲanankɔrɔ. Ntalen. 1725 слов.
+*   Jara, Umaru Ɲanankɔrɔ. Sigidankelen ka labanko juguya. 978 слов.
+*   Jara, Umaru Ɲanankɔrɔ. Warabilenkɔrɔ ka walijuya. 1640 слов.
+
+Периодика:
+*   Kibaru 160-179, dec. 1986, 3592 слов
+*   Kibaru 258, juillet 1993, 10084 слов
+*   Kibaru 526, nov. 2015, p. 1-3, 3856 слов
+*   Kibaru 530, mars 2016, 9450 слов
+*   Kibaru 531, avril 2016, 10756 слов
+
+**Новые тексты в подкорпусе с неснятой омонимией:**
+   
+* Ebola poster, 527 слов
+* Tarawele, Daramani. Masala gafe. Bamakɔ: Kalan diya, 6967, слов.
+* Tarawele, Daramani. Masalabolo. Bamakɔ: Kalan diya, 16515, слов.
+* Tarawele, Daramani. Siginikalan n'a kɔfɛkalanw waleyacogo. Bamakɔ: Kalan diya, 2013 слов.
+* Werner, David. Dɔgɔtɔrɔ tɛ sigida min na: Wulakɔnɔmɔgɔw ka yɛrɛfurakɛgafe (Là où il n'y a pas de docteur: Un manuel de soins de santé). Trad. par Bengali, Salifou; Bouaré, Fatoumata; Coulibaly, Abdoulaye; Dembélé, Diatrou. Bamako, 2016. Ɲɛbila, Sigida 1, 2, 3, 20, Ebola, 26351 слов
+
+Периодика:
+
+Kibaru
+
+- No. 3, mai 1972, 2029 слов
+- No. 4, juin 1972, 2712 слов
+- No. 5, juillet 1972, 2196 слов
+- No. 6, août 1972, 2367 слов
+- No. 7, septembre 1972, 708 слов
+- No. 8, octobre 1972, 2043 слов
+- No. 9, novembre 1972, 2275 слов
+- No. 10, décembre 1972, 2485 слов
+- No. 11, janvier 1973, 2005 слов
+- No. 104, octobre 1980, 2639 слов
+- No. 123, mai 1982, 4344 слов
+- No. 130, decembre 1982, 4000 слов
+- No. 142-150, septembre 1986, 3553 слов
+- No. 180, février 1987, 3493 слов
+- No. 181, mars 1987, 3544 слов
+- No. 183, avril 1987, 4283 слов
+- No. 185, juin 1987, 4225 слов
+- No. 186-188, septembre 1987, 4090 слов
+- No. 189, octobre 1987, 6252 слов
+- No. 194, mars 1988, 4744 слов
+- No. 203-203, decembre 1988, 6155 слов
+- No. 211, août 1989, 4364 слов
+- No. 218, mars 1990, 2190 слов
+- No. 219, avril 1990, 3176 слов
+- No. 220, mai 1990, 3389 слов
+- No. 221, juin 1990, 3716 слов
+- No. 224, septembre 1990, 4253 слов
+- No. 229, janvier 1991, 4483 слов
+- No. 230, février 1991, 3403 слов
+- No. 231, mars 1991, 4518 слов
+- No. 232, avril 1991, 3290 слов
+- No. 233, mai 1991, 3854 слов
+- No. 234, juin 1991, 6027 слов
+- No. 235, juillet 1991, 4180 слов
+- No. 236, août 1991, 3884 слов
+- No. 237, septembre 1991,4066 слов
+- No. 238, octobre 1991, 1622 слов
+- No. 241, février 1992, 3954 слов
+- No. 242, mars 1992, 3931 слов
+- No. 243, avril 1992, 2410 слов
+- No. 245, juin 1992, 2948 слов
+- No. 246, juillet 1992, 4242 слов
+- No. 247, août 1992, 3812 слов
+- No. 248, septembre 1992, 3349 слов
+- No. 249, octobre 1992, 2499 слов
+- No. 250, novembre 1992, 2746 слов
+- No. 259,, août 1993, 4579 слов
+- No. 260, septembre 1993, 5216 слов
+- No. 261, octobre 1993, 4761 слов
+- No. 263, decembre 1993, 3671 слов
+- No. 529, février 2016, 11358 слов
+
 Выпуск 2016.02
 ~~~~~~~~~~~~~~
 
