@@ -102,8 +102,9 @@ Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes d
 - Diɲɛ Yaalala, 317 слов.- Dɔnkɛsunguru, 280 слов
 
 Тексты песен:
-Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 593 слов.
-Danba, Fanta. Míniyanba, Fanta Danba. 315 слов.
+
+- Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 593 слов.
+- Danba, Fanta. Míniyanba, Fanta Danba. 315 слов.
 
 
 Радиопередачи

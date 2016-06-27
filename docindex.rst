@@ -6,6 +6,7 @@
 
 .. toctree::   
    :titlesonly:
+   :maxdepth: 1
 
    standard-glosses-ru
    pos-tags-ru
