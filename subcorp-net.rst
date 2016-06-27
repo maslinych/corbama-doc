@@ -2,7 +2,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
-- Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres 2d (4952 слов), 2e (14818 слов), 2f (2599 слов).
+- Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres Chapitres 1 (4435 слов), 2a (4559 слов), 2b (6120 слов), 2c (10925 слов), 2d (4952 слов), 2e (14818 слов), 2f (2599 слов).
 - Bailleul, Ch.; Dumestre, G.; Vydrine, V. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 слов.
 - Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 слов.
@@ -18,15 +18,17 @@
 - Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 слов.
 - Dukure, Mamadu. Ni san cyɛnna jate tɛ kalo la. Bamako: Cauris Éditions - Makdas sɛbɛnca, 2009, 58 p. 7752 слов.
 - Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
+- Jara, Usumani; Jara, Yakuba. Baganw ka minnɔgɔlaminɛ taamajan. Bamakɔ: Le figuier, 1996, 762 слов.
 - Jaabi, Musa. Ntɛntɛnw n'u jaabiw. Bamako, DNAFLA – OCED, 1993, 27 p., 2442 слов.
 - Jakite, Mamadu. Dɔlɔminbana. Bamakɔ: DNAFLA - LHVN – USAID, 1993, 38 p., 6425 слов.
+- Kamara, Idirisa. Donon kasira (Poyi). Bamakɔ: Sahelienne, 1996. 3527 слов.
 - Kamara, Mamadu. Weleli. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 1354 слов.
 - Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
 - Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 - Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
 - Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
 - Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 слов.
-- Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Bamakɔ, 2011. Suran 1 (100 слов), Suran 2 (16011 слов), Suran 3 (8399 слов), Suran 4 (9058 слов).
+- Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Bamakɔ, 2011. Suran 1 (100 слов), Suran 2 (16011 слов), Suran 3 (8399 слов), Suran 4 (9058 слов), Suran 5, 6942 слов.
 - Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 - Meyer, Gérard. Devinettes bambara. Paris : L’Harmattan, 1978.
 - Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 слов.
@@ -60,6 +62,10 @@
 
 - Jara, Umaru Ɲanankɔrɔ. Dununba kumata. Paris: Donniyakadi, 2011, 2152 слов.
 - Jara, Umaru Ɲanankɔrɔ. Juman nɔrɔla. 4905 слов
+- Jara, Umaru Ɲanankɔrɔ. Juguya sara. 650 слов.
+- Jara, Umaru Ɲanankɔrɔ. Ntalen. 1725 слов.
+- Jara, Umaru Ɲanankɔrɔ. Sigidankelen ka labanko juguya. 978 слов.
+- Jara, Umaru Ɲanankɔrɔ. Warabilenkɔrɔ ka walijuya. 1640 слов.
 - Görög-Karady, Veronika; Meyer, Gérard. Contes bambara. Mali et Sénégal Oriental. Paris, Fleuve et Flamme, 1985, 174 p., 11733 слов 
 - Bambéra, Taïrou. Faamanjè ni Faantannjè. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 11-89. 13041 слов.
 - Fane, Baba. Cikèla ni bara. In : Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997, pp. 123-132. 8856 слов.
@@ -95,11 +101,11 @@ Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes d
 - Sonsannin, Surukuba ani Tonkun Bonbosima, 493 слов
 - Diɲɛ Yaalala, 317 слов.- Dɔnkɛsunguru, 280 слов
 
-Тексты песен
-------------
+Тексты песен:
 
-* Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 593 слов.
-* Danba, Fanta. Míniyanba, Fanta Danba. 315 слов.
+- Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 593 слов.
+- Danba, Fanta. Míniyanba, Fanta Danba. 315 слов.
+
 
 Радиопередачи
 -------------
@@ -165,5 +171,12 @@ Kibaru
 - Kibaru 41, Juillet 1975, 2870 слов
 - Kibaru 52, Juin 1976, 2508 слов
 - Kibaru 65, Juillet 1977, 1765 слов
+- Kibaru 160-179, dec. 1986, 3592 слов
+- Kibaru 258, juillet 1993, 10084 слов
 - Kibaru 467, Dec. 2010, 11079 слов
+- Kibaru 526, nov. 2015, p. 1-3, 3856 слов
 - Kibaru 527, Décembre 2015, 10900 слов
+- Kibaru 530, mars 2016, 9450 слов
+- Kibaru 531, avril 2016, 10756 слов
+
+
