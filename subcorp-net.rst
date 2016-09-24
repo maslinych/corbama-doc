@@ -7,8 +7,8 @@
 - Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 слов.
 - Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 слов.
 - Berson, Anne; Traoré, Aminata. Ka sigidalafɛn duntaw matarafa walasa ka an ka baloko ɲuman sabati / Consommer la biodiversité locale pour mieux se nourrir. Sikasso: COFERSA-BEDE, 2014-2015, 32 p., 5415 слов http://www.bede-asso.org/wp-content/uploads/2016/01/Consommer-biodiversite-locale-pour-mieux-se-nourrir-COFERSA-BEDE-version-reduite-web.pdf
-– Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
-– Denw ka balo. DNAFLA, 455 слов
+- Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
+- Denw ka balo. DNAFLA, 455 слов
 - Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 слов.
 - Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakaridjan ni Bilissi, pp. 111-181, 7156 слов.
 - Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993.
@@ -84,7 +84,6 @@ Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes d
 - Sinamuso tagara jinèdugu la, p. 49-51, 1165 слов
 - Falatònin ni toro sun, p. 56-57, 612 слов
 - Nin kèra dennin fila ye, p. 58-61, 1519 слов
-
 - Dugutigi ye falatònin gwèn, p. 69-71, 791 слов
 - Kungo sogow ye cènin min dèmè, p. 72-77, 2100 слов
 - Ku yèlèmanen ka a kè den ye, p. 89-91, 859 слов
@@ -179,5 +178,3 @@ Kibaru
 - Kibaru 530, mars 2016, 9450 слов
 - Kibaru 531, avril 2016, 10756 слов
 - Kibaru 532, mai 2016, 12297 слов
-- 
-- 
