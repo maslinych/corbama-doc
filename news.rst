@@ -1,6 +1,148 @@
 Новости
 =======
 
+Выпуск 13 марта 2017
+~~~~~~~~~~~~~~~~~~~~
+
+Общий объем корпуса: 3,846 094 слов
+
+* Подкорпус со снятой омонимией: 700 034 слов
+* Подкорпус с неснятой омонимией: 3 146 060 слов
+
+**Изменения в морфологической разметке**:
+
+* Был усовершенствован морфологический анализатор, что позволило снизить число неправильно порождаемых аннотаций. Проведена большая работа по выявлению неаннотированных слов, в результате число таких слов в Корпусе уменьшилось с 10,6% до 0,5% от общего числа. Число слов, аннотированных однозначно, впервые превысило половину и составило 50,85% от общего числа слов в Корпусе (в прежней версии Корпуса они эта цифра достигала всего 37,34%). В подкорпусе с неснятой омонимией число однозначно аннотированых слов поднялось с 23% до 40%. 
+* Исправлены многие систематические ошибки автоматического анализа слов с дефисами (в первую очередь речь идёт о редуплицированных словах).
+* Произведёна замена частеречной пометы посессивного показателя: ká:conj:POSS >> ká:pp:POSS.
+
+**Изменения в поисковом интерфейсе**:
+  
+* Установлена версия манинка (в письменности нко) интерфейса поисковика NoSketchEngine. Для перехода на неё нужно кликнуть "шестерёнку" в правом верхнем углу экрана и выбрать ߒߞߏ из списка языков.
+
+**Новые тексты в подкорпусе со снятой омонимией**
+
+* Musokònòma ka banaw. Bamakɔ, 495 слов.
+* Musow ka baaraw Kaarata mara kɔnɔ. Bamakɔ: DNAFLA-ODIK, 1992, 919 слов.
+
+Kuranɛ
+* Suran 6, 7498 слов
+
+Периодика:
+
+* Jɛkabaara 1, janv. 1986, 3485 слов
+* Jɛkabaara 329, janv. 2014, 6335 слов
+* Jɛkabaara 332, avril 2014, 6501 слов
+* Kibaru 466, novembre 2010, 11382 слов
+* Kibaru 528, janvier 2016, 10731 слов
+* Kibaru 533, juin 2016, 12297 слов
+* Kibaru 534, juillet 2016, 10247 слов
+* Kibaru 535, août 2016, 11484 слов
+* Kibaru 536, septembre 2016, 9711 слов
+* Kibaru 537, octobre 2016, 9702 слов
+* Kibaru 538, novembre 2016, 11391 слов
+* Kibaru 539, décembre 2016, 10911 слов
+
+**Новые тексты в подкорпусе с неснятой омонимией**:
+
+Kuranɛ
+
+* Suran 8, 3069 слов
+* Suran 9, 5910 слов
+
+Периодика:
+
+* Jɛkabaara 1, janv. 1986, 3485 слов
+* Jɛkabaara 4, avril 1986, 3698 слов
+* Jɛkabaara 5, mai 1986, 2873 слов
+* Jɛkabaara 7, juillet 1986, 3617 слов
+* Jɛkabaara 8, août 1986, 4593 слов
+* Jɛkabaara 9, septembre 1986, 3909 слов
+* Jɛkabaara 16, avril 1987, 3421 слов
+* Jɛkabaara 17, mai 1987, 3936 слов
+* Jɛkabaara 18, juin 1987, 3766 слов
+* Jɛkabaara 19, juillet 1987, 4534 слов
+* Jɛkabaara 20, août 1987, 5558 слов
+* Jɛkabaara 21, septembre 1987, 5209 слов
+* Jɛkabaara 22, octobre 1987, 5041 слов
+* Jɛkabaara 44, août 1989, 4619 слов
+* Jɛkabaara 45, septembre 1989, 6655 слов
+* Jɛkabaara 46, octobre 1989, 6684 слов
+* Jɛkabaara 47, novembre 1989, 8052 слов
+* Jɛkabaara 48, decembre 1989, 5637 слов
+* Jɛkabaara 51, mars 1990, 5650 слов
+* Jɛkabaara 53, mai 1990, 5056 слов
+* Jɛkabaara 54, juin 1990, 5799 слов
+* Jɛkabaara 56, août 1990, 6663 слов
+* Jɛkabaara 57, septembre 1990, 7469 слов
+* Jɛkabaara 58, octobre 1990, 7715 слов
+* Jɛkabaara 59, novembre 1990, 6913 слов
+* Jɛkabaara 61, janvier 1991, 5571 слов
+* Jɛkabaara 63, mars 1991, 5475 слов
+* Jɛkabaara 65, mai 1991, 6685 слов
+* Jɛkabaara 66, juin 1991, 6944 слов
+* Jɛkabaara 68, août 1991, 5533 слов
+* Jɛkabaara 69, septembre 1991, 6116 слов
+* Jɛkabaara 70, octobre 1991, 5912 слов
+* Jɛkabaara 71, novembre 1991, 5836 слов
+* Jɛkabaara 72, decembre 1991, 7118 слов
+* Jɛkabaara 73, janvier 1992, 7402 слов
+* Jɛkabaara 74, février 1992, 6791 слов
+* Jɛkabaara 75, mars 1992, 6921 слов
+* Jɛkabaara 76, avril 1992, 7364 слов
+* Jɛkabaara 77, mai 1992, 4897 слов
+* Jɛkabaara 78, juin 1992, 5395 слов
+* Jɛkabaara 79, juillet 1992, 9645 слов
+* Jɛkabaara 80, août 1992, 7272 слов
+* Jɛkabaara 81, septembre 1992, 7921 слов
+* Jɛkabaara 82, octobre 1992, 6966 слов
+* Jɛkabaara 83, novembre 1992, 7330 слов
+* Jɛkabaara 84, décembre 1992, 8299 слов
+* Jɛkabaara 85, janvier 1993, 7732 слов
+* Jɛkabaara 86, février 1993, 7716 слов
+* Jɛkabaara 87, mars 1993, 7053 слов
+* Jɛkabaara 88, avril 1993, 5251 слов
+* Jɛkabaara 90, juin 1993, 6863 слов
+* Jɛkabaara 91, juillet 1993, 6094 слов
+* Jɛkabaara 92, août 1993, 10691 слов
+* Jɛkabaara 93, septembre 1993, 9120 слов
+* Jɛkabaara 94, octobre 1993, 7298 слов
+* Jɛkabaara 95, novembre 1993, 7048 слов
+* Jɛkabaara 97, janvier 1994, 9002 слов
+* Jɛkabaara 99, mars 1994, 8274 слов
+* Jɛkabaara 102, mai 1994, 9075 слов
+* Jɛkabaara 103, juin 1994, 9054 слов
+* Jɛkabaara 104, juillet 1994, 8451 слов
+* Jɛkabaara 105, août 1994, 7465 слов
+* Jɛkabaara 106, septembre 1994, 8774 слов
+* Jɛkabaara 108, novembre 1994, 9079 слов
+* Jɛkabaara 110, janvier 1995, 8077 слов
+* Jɛkabaara 111, février 1995, 7925 слов
+* Jɛkabaara 112, mars 1995, 8414 слов
+* Jɛkabaara 113, avril 1995, 6904 слов
+* Jɛkabaara 114, mai 1995, 8925 слов
+* Jɛkabaara 116, juillet 1995, 8707 слов
+* Jɛkabaara 117, août 1995, 8397 слов
+* Jɛkabaara 118, septembre 1995, 7694 слов
+* Jɛkabaara 119, octobre 1995, 7598 слов
+* Jɛkabaara 120, novembre 1995, 9131 слов
+* Kibaru 320, sept. 1998, 8487 слов
+* Kibaru 321, oct. 1998, 9427 слов
+* Kibaru 322, nov. 1998, 8077 слов
+* Kibaru 323, dec. 1998, 9745 слов
+* Kibaru 324, janv. 1999, 10294 слов
+* Kibaru 331, août 1999, 9931 слов
+* Kibaru 334, nov. 1999, 10193 слов
+* Kibaru 365, juin 2002, 8137 слов
+* Kibaru 366, juillet 2002, 8503 слов
+* Kibaru 378, juillet 2003, 10066 слов
+* Kibaru 417, octobre 2006, 10237 слов
+* Kibaru 429, octobre 2007, 9114 слов
+* Kibaru 433, fevrier 2008, 9885
+* Kibaru 434, mars 2008, 9373 слов
+* Kibaru 452, sept. 2009, 11659 слов
+* Kibaru 453, oct. 2009, 10139 слов
+* Kibaru 541, février 20017, 9361 слов
+
 Выпуск 23 сентября 2016
 ~~~~~~~~~~~~~~~~~~~~~~~
 

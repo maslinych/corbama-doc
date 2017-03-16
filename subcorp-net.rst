@@ -10,7 +10,7 @@
 * Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
 * Denw ka balo. DNAFLA, 455 слов
 * Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 слов.
-* Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakaridjan ni Bilissi, pp. 111-181, 7156 слов.
+* Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakari Dian et Bilissi, pp. 111-181, 7156 слов.
 * Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993.
    1. Ja bè se ka kèlè cogo di ? 221 слов. 
    4. Daga ni kolon. 204 слова. 
@@ -26,11 +26,13 @@
 * Keyita, Gabukɔrɔ. Sunjata Keyita ka maana. Bamakò: EDIM, 1979, 32 p. 3558 слов.
 * Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 * Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
-* Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 mots.
+* Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
 * Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 слов.
-* Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Bamakɔ, 2011. Suran 1 (100 слов), Suran 2 (16011 слов), Suran 3 (8399 слов), Suran 4 (9058 слов), Suran 5, 6942 слов.
+* Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Vol. 1. Bamakɔ, 2011. Suran 1 (100 слов), Suran 2 (16011 слов), Suran 3 (8399 слов), Suran 4 (9058 слов), Suran 5, 6942 слов. Suran 6, 7498 слов.
 * Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 * Meyer, Gérard. Devinettes bambara. Paris : L’Harmattan, 1978.
+* Musokònòma ka banaw. Bamakɔ, 495 слов.
+* Musow ka baaraw Kaarata mara kɔnɔ. Bamakɔ: DNAFLA-ODIK, 1992, 919 слов.
 * Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 слов.
 * Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
 * Sisoko, Jeli Baba. Daa ka Kòrè kèlè. Bamako: EDIM, 1977, 19452 слов.
@@ -127,9 +129,11 @@ Jama 14, 23 280 слов
 
 Jɛkabaara
 .........
-
+* No. 1, janv. 1986, 3485 слов
 * No. 10, oct. 1986, 3800 слов
 * No. 273, juillet 2008, статьи со снятием омонимии: 5371 слов 
+* No. 329, janv. 2014, 6335 слов
+* No. 332, avril 2014, 6501 слов
 
 Faso kan
 ........
@@ -164,18 +168,27 @@ Kalankisɛ, No. 10, февраль 1998, статьи со снятием омо
 Kibaru
 ------
 
-* Kibaru 1, Mar. 1972, 1940 слов
-* Kibaru 12, Feb. 1973, 2486 слов
-* Kibaru 13, Mars 1973, 3286 слов 
-* Kibaru 17, Juillet 1973, 2771 слов
-* Kibaru 41, Juillet 1975, 2870 слов
-* Kibaru 52, Juin 1976, 2508 слов
-* Kibaru 65, Juillet 1977, 1765 слов
-* Kibaru 160-179, dec. 1986, 3592 слов
-* Kibaru 258, juillet 1993, 10084 слов
-* Kibaru 467, Dec. 2010, 11079 слов
-* Kibaru 526, nov. 2015, p. 1-3, 3856 слов
-* Kibaru 527, Décembre 2015, 10972 слов
-* Kibaru 530, mars 2016, 9450 слов
-* Kibaru 531, avril 2016, 10756 слов
-* Kibaru 532, mai 2016, 12297 слов
+* No. 1, Mar. 1972, 1940 слов
+* No. 12, Feb. 1973, 2486 слов
+* No. 13, Mars 1973, 3286 слов 
+* No. 17, Juillet 1973, 2771 слов
+* No. 41, Juillet 1975, 2870 слов
+* No. 52, Juin 1976, 2508 слов
+* No. 65, Juillet 1977, 1765 слов
+* No. 160-179, dec. 1986, 3592 слов
+* No. 258, juillet 1993, 10084 слов
+* No. 466, novembre 2010, 11382 слов
+* No. 467, Dec. 2010, 11079 слов
+* No. 526, nov. 2015, p. 1-3, 3856 слов
+* No. 527, Décembre 2015, 10972 слов
+* No. 528, janvier 2016, 10731 слов
+* No. 530, mars 2016, 9450 слов
+* No. 531, avril 2016, 10756 слов
+* No. 532, mai 2016, 12297 слов
+* No. 533, juin 2016, 12297 слов
+* No. 534, juillet 2016, 10247 слов
+* No. 535, août 2016, 11484 слов
+* No. 536, septembre 2016, 9711 слов
+* No. 537, octobre 2016, 9702 слов
+* No. 538, novembre 2016, 11391 слов
+* No. 539, décembre 2016, 10911 слов
