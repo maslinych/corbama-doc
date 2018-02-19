@@ -3,14 +3,14 @@ Guide d’utilisation
 
 
 L’interface de recherche
-================
+=========================
 
 L’interface de recherche du Corpus bambara de référence se trouve en accès libre à l’adresse suivante : http://theschool.spb.ru/bonito/run.cgi/first_form
 
 En haut, se trouvent trois options principales pour la recherche : Corpus, Query Type, Query.
 
 Les sous-corpus
-==========
+================
 
 L’option Corpus permet le choix entre trois sous-corpus (plus précisément, il s’agit de deux sous-corpus, dont l’un permet deux types de recherche) :
 
@@ -35,7 +35,7 @@ Ce type de recherche est encore plus raffiné, elle exclue les quasi-homonymes s
 Cf. également : :doc:‘Règles de la notation tonale dans le Corpus <tonal-orthography-fr>`.
 
 L’étiquetage
-=========
+=============
 
 Tous les textes sont subdivisés en tokens. Un **Token** est un mot ou un signe de ponctuation. Chaque mot et chaque morphème à l’intérieur du mot est doté d’un étiquetage linguistique.
 
@@ -66,7 +66,7 @@ A l’origine de la base lexicale Bamadaba se trouve le dictionnaire bambara-fra
 Cf. également : :doc:`Gloses standards pour les affixes et les mots auxiliaires en bambara <standard-glosses-fr>`
 
 Types de recherche
-===========
+===================
 
 L’option Query type (qui peut être choisie par un clic sur l’inscription Query type dans le menu à la gauche) offre les types de recherche suivants :
 
@@ -92,7 +92,7 @@ C’est une recherche par tous les paramètres disponibles des mots-formes, mais
 Lorsqu’on choisit le type de recherche CQL, une fenêtre Default attribute apparaît automatiquement. Cette fenêtre comporte les options Word, Lemma, Tag, Gloss. 
 
 L’introduction de la forme à rechercher
-==================
+=======================================
 
 Tous les types de recherche, sauf CQL, supposent une introduction de la forme à rechercher dans la fenêtre Query. Après cela, il faut appuyer sur la touche Enter ou cliquer la touche Make Concordance (en bas de l’écran), et le logiciel créera la concordance.
 
@@ -137,7 +137,7 @@ Le régime CQL permet de trouver des formes redoublées (absentes de la base lex
     1:[] 2:[] & 1.word = 2.word
 
 Introduction des symboles non-standards
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’introduction de symboles non-standards(ɔ, ɛ, ŋ, ɲ, les signes diacritiques pour les tons) est possible de deux façons alternatives :
 
@@ -158,7 +158,7 @@ L’accent aigu (la marque du ton haut) est remplacé par une virgule après une
     ;n;o`mi -> ŋɔ̀mi
 
 L’option Context
-=============
+================
 
 Cette option permet d’effectuer une recherche de la co-occurrence des formes séparées par d’autres formes. Elle est activée (ou désactivée) par un clic sur le mot Context dans le menu à la gauche.
 
