@@ -2,7 +2,7 @@
 ===============================================
 
 
-Bailleul Ch., Davydov A.V., Erman A.V., Maslinksy K.A., Méric J.J., Vydrin V.F. Bamadaba : Dictionnaire électronique bambara-français, avec un indexe français-bambara. 2011–2014.
+Bailleul Ch., Davydov A.V., Erman A.V., Maslinksy K.A., Méric J.J., Vydrin V.F. Bamadaba : Dictionnaire électronique bambara-français, avec un indexe français-bambara. 2011–2018.
 
 Электронный бамана-французский словарь Bamadaba (с французско-бамана индексом) является приложением к Справочному Корпусу Бамана, при этом он может использоваться и как обычный двуязычный словарь. В основу Bamadaba положена версия 2007 года словаря Шарля Байоля:
 
