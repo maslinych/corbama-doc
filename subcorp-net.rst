@@ -2,8 +2,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Audibert, Andrée. Ji ni kɛnɛya. Bamakɔ: EDIM, 1976, 30 p., 2717 слов.
-* Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres Chapitres 1 (4435 слов), 2a (4559 слов), 2b (6120 слов), 2c (10925 слов), 2d (4952 слов), 2e (14818 слов), 2f (2599 слов).
-* Bailleul, Ch.; Dumestre, G.; Vydrine, V. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
+* Bailleul, Charles. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres Chapitres 1 (4435 слов), 2a (4559 слов), 2b (6120 слов), 2c (10925 слов), 2d (4952 слов), 2e (14818 слов), 2f (2599 слов).
+* Bailleul, Charles; Dumestre, Gérard; Vydrine, Valentin. Npogotigiw ni bilisiw. St. Petersbourg, 1992, 1957 слов.
 * Bana minnu ka teli ka mɔgɔ minɛ Mali duguw kɔnɔ. [Bamakɔ] [198?] 17 p., 2177 слов.
 * Berete, Hamidu. Faba janjo. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 4225 слов.
 * Berson, Anne; Traoré, Aminata. Ka sigidalafɛn duntaw matarafa walasa ka an ka baloko ɲuman sabati / Consommer la biodiversité locale pour mieux se nourrir. Sikasso: COFERSA-BEDE, 2014-2015, 32 p., 5415 слов http://www.bede-asso.org/wp-content/uploads/2016/01/Consommer-biodiversite-locale-pour-mieux-se-nourrir-COFERSA-BEDE-version-reduite-web.pdf
@@ -17,7 +17,8 @@
    1. Ja bè se ka kèlè cogo di ? 221 слов. 
    4. Daga ni kolon. 204 слова. 
    11. Tulogeren saba. 735 слов.
-* Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: Chroniques maliennes. 111119 mots. (Убрать из неснятого подкорпуса!)
+* Dumestre, Gérard; Touré, Seydou. Chroniques maliennes. 92780 слов.
+* Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: 111119 слов.
 * Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 слов.
 * Dukure, Mamadu. Ni san cyɛnna jate tɛ kalo la. Bamako: Cauris Éditions - Makdas sɛbɛnca, 2009, 58 p. 7752 слов.
 * Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
@@ -200,6 +201,7 @@ Kibaru
 * Kibaru 41, Juillet 1975, 2870 слов
 * Kibaru 52, Juin 1976, 2508 слов
 * Kibaru 65, Juillet 1977, 1765 слов
+* Kibaru 111, mai 1981, 3785 слов
 * Kibaru 160-179, dec. 1986, 3592 слов
 * Kibaru 258, juillet 1993, 10084 слов
 * Kibaru 466, novembre 2010, 11382 слов
@@ -222,3 +224,11 @@ Kibaru
 * Kibaru 542, mars 2017, 9842 слов
 * Kibaru 543, avril 2017, 10306 слов
 * Kibaru 544, mai 2017, 11309 слов
+* Kibaru 545, juin 2017, 11780 слов
+* Kibaru 546, juillet 2017, 12234 слов
+* Kibaru 547, août 2017, 11397 слов
+* Kibaru 548, sept. 2017, 11402 слов
+* Kibaru 549, oct. 2017, 11077 слов
+* Kibaru 552, janv. 2018, 11034 слов
+* Kibaru 553, fevr. 2018, 11391 слов
+

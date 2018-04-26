@@ -11,7 +11,6 @@
 * Duguyiriwa tɔn tɛmɛsiraw. Bamakɔ, ODIK, 1990, 15 p., 775 слов.
 * Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p. [кроме глав: 1. Ja bè se ka kèlè cogo di ? 221 слов. 4. Daga ni kolon. 204 слова. 11. Tulogeren saba. 735 слов.], 32 423 слов.
 * Dumestre, Gérard; Maïga, Ismaël. Baabu ni baabu. Paris: Editions du MRAP/Différences 1993, 151 p., (кроме глав 1, 4, 11 со снятой омонимией, и глав 5, 15, 15, 16, 18, 20, 24, 25, 30, 39, дублирующих статьи Kibaru): 18734 слов.
-* Dumestre, Gérard & Touré, Seydou. Chroniques amoureuses. Juin 1995: 18433 слов; Juillet 1995: 16312 слов; Août 1995: 16955 слов; Septembre 1995: 15113 слов; Octobre 1995: 14204 слов; Novembre 1995: 13 767 слов; Décembre 1995: 8521 слов; Janvier 1996: 326 слов
 * Dunbiya, Siyaka. Waleɲumandɔnbaliya. Bamakɔ: Jamana, 1997, 742 слов.
 * Ebola poster, 527 слов
 * Hayidara-Maha, Mahamadu. Jɛgɛnin. Traduit par Jara, Yala. Bamako: Imprimérie Mali-Offset, 1997, 5566 слов.
@@ -19,6 +18,7 @@
 * Jabatɛ, Jeli Jafe. Ŋɛɲɛkɔrɔ ka Tonnkan (Cɛfarinmaana). EDIS, 2007, 267 p., 47469 слов + Samaseku, Adama. Ɲɛbila, 512 слов.
 * Jabi, Musa. Ngɔninkɔrɔ bama. (Yɔrɔ Kulibali bolo). Bamakɔ: Jamana, 2000, 36 p. 4274 слов.
 * Jarasuba, Caka. Diden lakalilen denmisɛnninw ye. Bamakɔ: Fayida, 1441 слов.
+* Jarasuba, Caka. Koorokaara y'a ta juru sara cogo min suruku la. Bamako: Fayida, 1991, 16 p., 824 слова.
 * Kamara, Bakari; Tera, Jɔb; Traore, Abdul Karim; Jalo, Famori. Baganlafa. Bamakɔ: Sahélienne, 2249 слов.
 * Kamisɔkɔ, Fajala Sanfin. Balikukalan man kɛnɛ (ɲɔgɔlɔn). Bamakɔ: Sahelienne, 1996. 5942 слов.
 * Kènèya sabatili walew. Kolokani, DNAFLA-AFVP, 9251 слов.
@@ -340,7 +340,6 @@ Kibaru
 * Kibaru 108, fevrier 1981, 5630 слов
 * Kibaru 109, mars 1981, 4236 слов
 * Kibaru 110, avril 1981, 5181 слов
-* Kibaru 111, mai 1981, 3868 слов
 * Kibaru 112, juin 1981, 4985 слов
 * Kibaru 113, Juillet 1981, 3720 слов
 * Kibaru 114, août 1981, 3711 слов
@@ -472,8 +471,20 @@ Kibaru
 * Kibaru 296, sept. 1996, 10701 слов
 * Kibaru 297, octobre 1996, 10331 слов
 * Kibaru 298, nov. 1996, 10468 слов
+* Kibaru 299, dec. 1996, 11432 слов
+* Kibaru 300, janv. 1997, 11044 слов
+* Kibaru 301, fevr. 1997, 11203 слов
+* Kibaru 302, mars 1997, 11109 слов
+* Kibaru 303, avril 1997, 9075 слов
 * Kibaru 304, mai 1997, 11046 слов
+* Kibaru 305, juin 1997, 12916 слов
+* Kibaru 306, juillet 1997, 11380 слов
+* Kibaru 307, août 1997, 11097 слов
+* Kibaru 308, sept. 1997, 10158 слов
 * Kibaru 309, oct. 1997, 9349 слов
+* Kibaru 310, nov. 1997, 10143 слов
+* Kibaru 311, dec. 1997, 9658 слов
+* Kibaru 312, janv. 1998, 10165 слов
 * Kibaru 313, Fev. 1998, 9099 слов
 * Kibaru 314, mars 1998, 10062 слов
 * Kibaru 315, avril 1998, 9012 слов
@@ -488,11 +499,41 @@ Kibaru
 * Kibaru 324, январь 1999, 10294 слов
 * Kibaru 331, август 1999, 9931 слов
 * Kibaru 334, ноябрь 1999, 10193 слов
+* Kibaru 336, janv. 2000, 11148 слов
+* Kibaru 337, fevr. 2000, 7948 слов
+* Kibaru 338, mars 2000, 12658 слов
+* Kibaru 340, mai 2000, 10564 слов
+* Kibaru 341, juin 2000, 11577 слов
+* Kibaru 342, juillet 2000, 11663 слов
+* Kibaru 343, août 2000, 11088 слов
 * Kibaru 344, sept. 2000, 10625 слов
+* Kibaru 346, nov. 2000, 11452 слов
+* Kibaru 347, dec. 2000, 11737 слов
+* Kibaru 348, janv. 2001, 12580 слов
+* Kibaru 349, fevr. 2001, 11713 слов
+* Kibaru 350, mars 2001, 10608 слов
+* Kibaru 351, avr. 2001, 10830 слов
+* Kibaru 352, mai 2001, 11128 слов
+* Kibaru 353, juin 2001, 11460 слов
+* Kibaru 354, juillet 2001, 11266 слов
+* Kibaru 355, août 2001, 10785 слов
 * Kibaru 356, sept. 2001, 9564 слов
+* Kibaru 357, oct. 2001, 9174 слов
+* Kibaru 358, nov. 2001, 10153 слов
+* Kibaru 359, dec. 2001, 10351 слов
+* Kibaru 360, janv. 2002, 11757 слов
+* Kibaru 361, fevr. 2002, 7414 слов
+* Kibaru 362, mars 2002, 9127 слов
+* Kibaru 363, avril 2002, 8868 слов
 * Kibaru 365, июнь 2002, 8137 слов
 * Kibaru 366, июль 2002, 8503 слов
+* Kibaru 367, août 2002, 9652 слов
 * Kibaru 368, sept. 2002, 9464 слов
+* Kibaru 369, oct. 2002, 8053 слов
+* Kibaru 370, nov. 2002, 9416 слов
+* Kibaru 371, dec. 2002, 8972 слов
+* Kibaru 372, janv. 2003, 7996 слов
+* Kibaru 373, fevr. 2003, 10182 слов
 * Kibaru 378, июль 2003, 10066 слов
 * Kibaru 380, sept. 2003, 9410 слов
 * Kibaru 384, janv. 2004, 10521 слов
@@ -549,7 +590,7 @@ Saheli
 Kunnafoni ka ɲɛsin kɛnɛya baarakɛlaw ma, minnu bɛka Ebola kɛlɛ (сайт dokotoro.org), 527 слов
 
 блог Fasokan
-............
+........
 
 2010
 

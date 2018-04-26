@@ -1,6 +1,120 @@
 Новости
 =======
 
+Выпуск 15 апреля 2018
+---------------------
+
+Общий объем корпуса: 5 220 107 слов
+
+* Подкорпус со снятой омонимией: 1 075 790 слов
+* Параллельный бамана-французский и французско-баманский корпус: 99 163 слов в баманской в части, 116 177 слова во французской части.
+* Синтаксически аннотированный подкорпус: 956 предложений и 11381 слов.
+* Подкорпус с неснятой омонимией: 4 144 317 слов.
+
+Инновации в Корпусе:
+
+1. Сайт Справочного корпуса бамана (вместе со всеми своими
+   подкорпусами) включён в сайт «Mande Corpora – Аннотированные
+   текстовые корпуса на языках манде», который, помимо баманского
+   включает также корпуса языков манинка и восточного дан (в ближайшем
+   будущем планируется публикация на этом сайте корпусов и других
+   языков семьи манде). Стартовая страница этого сайта доступна по
+   этой сслыке.
+2. Опубликован параллельный `бамана-французский
+   <http://maslinsky.spb.ru/bonito/run.cgi/corp_info?corpname=corbamafara&struct_attr_stats=1&subcorpora=1>`_
+   и `французско-баманский
+   <http://maslinsky.spb.ru/bonito/run.cgi/corp_info?corpname=corfarabama&struct_attr_stats=1&subcorpora=1>`_
+   корпус. Выравнивание к параллельных корпусах выполнено на уровне
+   предложений.  Поиск в этом корпусе возможен как по баманскому, так
+   и по французскому подкорпусам. При поиске по параллельному корпусу
+   для каждого результата выводится предложение из параллельного
+   корпуса.
+3. Опубликован `синтаксически аннотированный подкорпус
+   <http://maslinsky.spb.ru/bonito/run.cgi/corp_info?corpname=corbama-ud&struct_attr_stats=1&subcorpora=1>`_. Синтаксическая
+   аннотация выполнена в формате `Universal Dependencies
+   <http://universaldependencies.org/>`_.
+
+Оба новых корпуса доступны с поисковой страницы NoSketchEngine (ссылка «Поиск в корпусе» на стартовой странице).
+Для поиска в синтаксически аннотированном подкорпусе нужно выбрать  опцию «Corpus – Corbama UD».
+Для поиска в параллельном корпусе нужно выбрать опцию «Corpus – Corbamafara» (для поиска по баманскому слову) или «Corpus – Corfarabama» (для поиска по французскому слову).
+
+**Новые тексты в подкорпусе со снятой омонимией**
+
+* Dumestre, Gérard & Touré, Seydou. Chroniques amoureuses. 92780 слов.
+
+Периодика:
+
+* Kibaru 111, mai 1981, 3785 слов убрать и неснятого подкорпуса!
+* Kibaru 545, juin 2017, 11780 слов
+* Kibaru 546, juillet 2017, 12234 слов
+* Kibaru 547, août 2017, 11397 слов
+* Kibaru 548, sept. 2017, 11402 слов
+* Kibaru 549, oct. 2017, 11077 слов
+* Kibaru 552, janv. 2018, 11034 слов
+* Kibaru 553, fevr. 2018, 11391 слов
+
+**Синтаксически аннотированный корпус** включает в себя следующие
+тексты:
+
+* Görög-Karady, Veronika; Meyer, Gérard. Contes bambara. Mali et Sénégal Oriental. Paris, Fleuve et Flamme, 1985, 174 p., 11381 mots.
+
+**Параллельный бамана-французский и французско-баманский корпус** включает следующие тексты (указано число слов бамана, через косую черту – число французских слов):
+
+- Bailleul Ch. Sagesse bambara : proverbes et sentences. Bamako : Editions Donniya, 2005, 463 p. Chapitres 1 (4780/6484 mots), 2a (4906/6816 mots), 2b (6510/9311 mots), 2c (11641/16728 mots), 2d (4974/6905 mots), 2e (14883/20634 mots), 2f (2600/3753 mots).
+- Oumar N. Diarra, Nsiiirinw, 2012: Dununba kumata, 1491/1643 mots; Juguya sara, 664/752 mots.
+- (Kouyaté, Seydou Badian.) Sous l’orage. (une adaptation du livre). Pièce de théâtre jouée en bambara par des élèves du Lycée Askia Mohamed, 6611/6201 mots
+- Kuranɛ kɔrɔ, bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. (Bamakɔ.) Vol. 1, 2011. Suran 1 (108/73 mots), 2 (16078/12114 mots).
+- Annik Thoyer (éd.). Le riche et le pauvre et autres contes bamanan du Mali. Paris : L’Harmattan, 1997. Faamanjè ni Faantannjè, par Taïrou Bambéra, pp. 11-89, 13178/10766 mots; Cikèla ni bara, par Baba Fane, pp. 123-132, 9044/8683 mots; Suruku ni kònyòmusow, par Cèman Sangare, pp. 92-121, 4388/4089 mots.
+
+**Новые тексты в подкорпусе с неснятой омонимией**:
+
+* Jarasuba, Caka. Koorokaara y'a ta juru sara cogo min suruku la. Bamako: Fayida, 1991, 16 p., 824 слова.
+
+Периодика:
+
+* Kibaru 299, dec. 1996, 11432 слов
+* Kibaru 300, janv. 1997, 11044 слов
+* Kibaru 301, fevr. 1997, 11203 слов
+* Kibaru 302, mars 1997, 11109 слов
+* Kibaru 303, avril 1997, 9075 слов
+* Kibaru 305, juin 1997, 12916 слов
+* Kibaru 306, juillet 1997, 11380 слов
+* Kibaru 307, août 1997, 11097 слов
+* Kibaru 308, sept. 1997, 10158 слов
+* Kibaru 310, nov. 1997, 10143 слов
+* Kibaru 311, dec. 1997, 9658 слов
+* Kibaru 312, janv. 1998, 10165 слов
+* Kibaru 336, janv. 2000, 11148 слов
+* Kibaru 337, fevr. 2000, 7948 слов
+* Kibaru 338, mars 2000, 12658 слов
+* Kibaru 340, mai 2000, 10564 слов
+* Kibaru 341, juin 2000, 11577 слов
+* Kibaru 342, juillet 2000, 11663 слов
+* Kibaru 343, août 2000, 11088 слов
+* Kibaru 346, nov. 2000, 11452 слов
+* Kibaru 347, dec. 2000, 11737 слов
+* Kibaru 348, janv. 2001, 12580 слов
+* Kibaru 349, fevr. 2001, 11713 слов
+* Kibaru 350, mars 2001, 10608 слов
+* Kibaru 351, avr. 2001, 10830 слов
+* Kibaru 352, mai 2001, 11128 слов
+* Kibaru 353, juin 2001, 11460 слов
+* Kibaru 354, juillet 2001, 11266 слов
+* Kibaru 355, août 2001, 10785 слов
+* Kibaru 357, oct. 2001, 9174 слов
+* Kibaru 358, nov. 2001, 10153 слов
+* Kibaru 359, dec. 2001, 10351 слов
+* Kibaru 360, janv. 2002, 11757 слов
+* Kibaru 361, fevr. 2002, 7414 слов
+* Kibaru 362, mars 2002, 9127 слов
+* Kibaru 363, avril 2002, 8868 слов
+* Kibaru 367, août 2002, 9652 слов
+* Kibaru 369, oct. 2002, 8053 слов
+* Kibaru 370, nov. 2002, 9416 слов
+* Kibaru 371, dec. 2002, 8972 слов
+* Kibaru 372, janv. 2003, 7996 слов
+* Kibaru 373, fevr. 2003, 10182 слов
+
 Выпуск 17 февраля 2018
 ----------------------
 
