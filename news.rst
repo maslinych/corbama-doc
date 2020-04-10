@@ -1,6 +1,350 @@
 Новости
 =======
 
+Выпуск 1 апреля 2020 года
+-------------------------    
+    
+Общий объем корпуса: 11,140,640 слов.
+Подкорпус со снятой омонимией: 1,513,289 слова.
+Подкорпус с неснятой омонимией: 9,627,351 слов, в том чиле в в Пре-корпусе (ручной набор без выверки опечаток и метаразметки) : 3,827,309 слов.
+Параллельный бамана-французский и французско-баманский корпус: 225,288 слов в баманской части, 240,829 слов во французской части.
+Синтаксически аннотированный подкорпус: 1001 предложение и 12,045 слов.
+    
+Новации в Справочном корпусе бамана:
+
+    1. В Корпус введены практически все имеющиеся в наличии письменные тексты бамана. Дальнейшее пополнение Корпуса планируется в основном за счёт новых публикаций и интернет-материалов, хотя мы надеемся также заполнить остающиеся лакуны в списке старых публикаций. Как бы то ни было, в дальнейшем рост абсолютного объёма Корпуса будет будет иметь значительно более низкие темпы, чем до сих пор. Работа по развитию Корпуса будет направлена, в первую очередь, на его качественное улучшение: сверку двойного набора и внесение метаданных в тексты "Пре-корпуса"; ручное снятие омонимии; совершенствование автоматического снятия омонимии; увеличение параллельного бамана-французского корпуса, а также корпуса с синтаксической аннотацией.
+    2. В подкорпусе, обозначаемом как «Подкорпус с неснятой омонимией», а также в Пре-корпусе (т.е. в corbama-brut) проведено автоматическое (частичное) снятие омонимии путём применения программы, разработанной Жан Жаком Мериком и основанной на списке коллокаций. В результате доля омонимичных слов снижена до 25%, против 38% в предыдущей версии Корпуса (без применения этой программы эта доля составляла около 70%).
+    3. В параллельном бамана-французском подкорпусе была уменьшена рассинхронизированная часть, однако избавиться от неё полностью пока что не удалось. При поиске рассинхронизированные фрагменты появляются в конце конкорданса.
+    4. Справочный Корпус Бамана был переведён на платформу Huma-Num Национального центра научных исследований Франции (CNRS).
+    
+Новые тексты в подкорпусе со снятой омонимией:
+    
+    - Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 8167 слов.
+    - Soumaré, Penda. La femme sorcière. Galadio. Traduit par Coulibaly, Soulyemane; Coulibaly, Mamadou; Traoré, Mariam; Cissé, Seydou. Paris: l'Harmattan, 1996, 57 p., 1568 mots.
+    - Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 8182 слов.
+    - Tarawele, Daramani. Baganlatɔlɔla: Misi ni saga. Bamakɔ: Kalan Diya, 2006, 6610 mots.
+    - Tarawele, Daramani. Batigɛmisi. Bamakɔ: EDIM S.A., 1996, 14534 mots.
+    
+    
+    Периодика:
+    
+    * Dibifara 25, décembre 2003, 2920 слов
+    * Dibifara 38, septembre 2006, 2673 слов
+    
+    * Faso kumakan, 15.08.1987, 2447 слов
+    
+    * Jɛkabaara 3, mars 1986, 4256 слов
+    * Jɛkabaara 280, février 2009, 6496 слов
+    
+    * Kibaru 200, sept. 1989, 5313 слов
+    * Kibaru 400, mai 2005, 11234 слов
+    * Kibaru 567, avril 2019, 8745 слов
+    
+    
+Новые тексты в подкорпусе с неснятой омонимией:
+    
+    - Balo, Massama. Daa Monson ni Ɲɛnama. Traduit par Dramé, Tieblé; Samaké, Raymond Paul. Bamako: École Normale Supérieure, 1979, 15665 слов.
+    - Dembélé, Karim; Diarra, Zamalé. Chansons des chasseurs recueuillis dans la région de San (textes inédits en bambara et bomu). Bamako, 1979, 2229 слов.
+    - Koné, Tiémoko. Soundiata. Trad. par Lassana Doucouré et Mme Marta. Bamako: Institut des sciences humaines – Niamey : Centre régional de documentation pour la tradition orale, (1970). 23712 слов.
+    - Traoré, Benoît. Diɲɛkɔrɔba. Ed. par Bailleul, Charles (Kulubali, Baabilen). Bamako: Donniya, 1996, 27 p., 3106 слов.
+    
+Периодика:
+    
+* Dibifara 1, sept. 2001, 6913 слов
+* Dibifara 2, oct. 2001, 6856 слов
+* Dibifara 3, nov. 2001, 7339 слов
+* Dibifara 4, dec. 2001, 5952
+* Dibifara 15, janv. 2003, 3755
+* Dibifara 26, dec. 2003, 2896 слов
+* Dibifara 27, janv. 2004, 3171 слов
+* Dibifara 38, sept. 2006, 2621 слов
+
+* Kalamɛnɛ 5 nov. 1992, 6354 слов
+* Kalamɛnɛ 6 dec. 1992, 5248 слов
+* Kalamɛnɛ 7 janv. 1993, 3843 слов
+* Kalamɛnɛ 8 fevr. 1993, 3235 слов
+* Kalamɛnɛ 9 janv. 1996, 2201 слов
+* Kalamɛnɛ 10 mars 1996, 2669 слов
+
+* Kalanso 1, juin 1977, 10871 слов
+    
+Kibaru
+
+* Kibaru danma 1974, 5279 слов
+* Kibaru, danma nimòrò, 22.09.1983, 3471 слов
+* Kibaru 190-191, nov.-déc. 1987, 9091 слов
+* Kibaru 195, avril 1989, 4660 слов
+* Kibaru 196, mai 1989, 4957 слов
+* Kibaru 197, juin 1989, 4931 слов
+* Kibaru 198, juillet 1989, 4471 слов
+* Kibaru 199, août 1989, 5016 слов
+* Kibaru 200, sept. 1989, 5254 слов
+* Kibaru 201, oct. 1989, 3718 слов
+* Kibaru 217, fev. 1990, 677 слов
+* Kibaru 240, janv. 1992, 2134 слов
+* Kibaru 1992 danma nimoro, 3286 слов
+* Kibaru 251, déc. 1992, 3126 слов
+* Kibaru 252, janvier 1993, 168 слов
+* Kibaru 325, fevrier 1999, 9129 слов
+* Kibaru 333, oct. 1999, 8 717 слов
+* Kibaru 335, dec. 1999, 10620 слов
+* Kibaru 339, avril 2000, 10760 слов
+* Kibaru 345, oct. 2000, 10082 слов
+* Kibaru 550, nov. 2017, 10289 слов
+* Kibaru 551, dec. 2017, 10622 слов
+* Kibaru 562, nov. 2018, 11996 слов
+* Kibaru 563, dec. 2018, 12445 слов
+* Kibaru 564, janv. 2019, 12185 слов
+* Kibaru 565, fevr. 2019, 8695 слов
+* Kibaru 566, mars 2019, 12619 слов
+    
+* Kɔtɛ 1, juill. 1980, 1248 слов
+* Kɔtɛ 2, oct. 1980, 1084 слов
+* Kɔtɛ 3, janv. 1981, 1277 слов
+* Kɔtɛ 4, juill. 1981, 918 слов
+* Kɔtɛ 9, janv. 1986, 1927 слов
+* Kɔtɛ 10, sept. 1987, 2112 слов
+* Kɔtɛ  11, juin 1988, 2135 слов
+    
+* Kɔtɛba kura 1, juin 1977, 2849 слов
+* Kɔtɛba kura 2, mai 1978, 2877 слов
+* Kɔtɛba kura 3, mai 1979, 4528 слов
+
+* Nafarinma 1, sept. 2001, 3930 слов
+    
+    
+* Ntuloma 01, sept. 1992, 6478 слов
+* Ntuloma 02, dec. 1992, 6916 слов
+* Ntuloma 03, mars 1993, 6486 слов
+* Ntuloma 04, juin 1993, 4879 слов
+* Ntuloma 05, sept. 1993, 7771 слов
+* Ntuloma 06, dec. 1993, 5848 слов
+* Ntuloma 07, mars 1994, 5733 слов
+* Ntuloma 08, juin 1994, 5224 слов
+* Ntuloma 10, dec. 1994, 3612 слов
+* Ntuloma 11, mars 1995, 3619 слов
+
+* Nyètaa 01, juillet 1979, 7487 слов
+* Nyètaa 02, octobre 1979, 11478 слов
+* Nyètaa 03, janvier 1980, 14483 слов
+* Nyètaa 05, mai 1981, 12040 слов
+* Nyètaa 06, mars 1983, 10233 слов
+* Nyètaa 10, juin 1985, 10234 слов
+* Nyètaa 11, mai 1986, 8363 слов
+* Nyètaa numéro spécial, sept. 1986 (12?), 10796 слов
+
+
+Выпуск 27 июня 2019 
+-------------------
+
+Общий объем корпуса: 10 883 364 слова.
+Подкорпус со снятой омонимией: 1 439 054 слова.
+Параллельный бамана-французский и французско-баманский корпус: 225 288 слов в баманской части, 240 829 слов во французской части.
+Синтаксически аннотированный подкорпус: 1001 предложение и 12045 слов.
+
+Новые тексты в подкорпусе со снятой омонимией
+Coulibaly, Soulyemane; Coulibaly, Mamadou; Traoré, Mariam; Cissé, Seydou. La femme sorcière. Galadio. Paris: l'Harmattan, 1996, 57 p., 1568 mots.
+Ɲɛ kɛnɛya sabatili walew. Bamako: Organisation pour la prévention de la cécité – DNAFLA, 111 p., 11426 mots.
+Sallée, Aliette; Rolland, Denis. Téné: conte bilingue bambara-français. Paris: l'Harmattan, 1995, 24 p. 1448 mots.
+Werner, David. Dɔgɔtɔrɔ tɛ sigida min na: Wulakɔnɔmɔgɔw ka yɛrɛfurakɛgafe (Là où il n'y a pas de docteur: Un manuel de soins de santé). Trad. par Bengali, Salifou; Bouaré, Fatoumata; Coulibaly, Abdoulaye; Dembélé, Diatrou. Bamako, 2016. http://gafe.dokotoro.org/multi.html 221100 mots.
+
+Периодика:
+Jɛkabaara 300, octobre 2010, 6370 слов
+
+* Kibaru 500, septembre 2013, 99619 слов
+* Kibaru 558, juillet 2018, 11987 слов
+* Kibaru 559b, août 2018, 18224 слов
+    
+* Kolonkisɛ 10, 01.02.1998, 4117 слов
+    
+    
+Новые тексты в подкорпусе с неснятой омонимией:
+Werner, David; Thuman, Carol; Maxwell, Jane. Dɔgɔtɔrɔ tɛ sigida min na: Wulakɔnɔmɔgɔw ka yɛrɛfurakɛgafe. Traduit par: Bengali, Salifou; Bouaré, Fatoumata; Coulibaly, Abdoulaye; Dembélé, Diatrou; Magassa, Yagare. http://gafe.dokotoro.org/multi.html. 211422 mots.
+    
+    
+    Периодика:
+    
+* Faso kumakan 24.10.1982, 1539 слов
+* Faso kumakan 14.11.1982, 1551 слов
+* Faso kumakan 28.11.1982, 1073 слов
+* Faso kumakan 12.12.1982, 1246 слов
+* Faso kumakan 19.12.1982, 730 слов
+* Faso kumakan 02.01.1983, 1422 слов
+* Faso kumakan 09.01.1983, 1719 слов
+* Faso kumakan 16.01.1983, 1754 слов
+* Faso kumakan 23.01.1983, 1404 слов
+* Faso kumakan 06.02.1983, 1450 слов
+* Faso kumakan 13.02.1983, 1767 слов
+* Faso kumakan 27.03.1983, 1532 слов
+* Faso kumakan 03.04.1983, 1965 слов
+* Faso kumakan 10.04.1983, 1867 слов
+* Faso kumakan 17.04.1983, 1950 слов
+* Faso kumakan 24.04.1984, 1248 слов
+* Faso kumakan 01.03.1984, 1790 слов
+* Faso kumakan 25.03.1984, 1532 слов
+* Faso kumakan 15.07.1984, 1691 слов
+* Faso kumakan 01.08.1984, 1853 слов
+* Faso kumakan 27.10.1984, 1188 слов
+* Faso kumakan 03.11.1984, 1024 слов
+* Faso kumakan 24.11.1984, 1234 слов
+* Faso kumakan 15.12.1984, 1401 слов
+* Faso kumakan 09.02.1985, 1102 слов
+* Faso kumakan 09.03.1985, 1468 слов
+* Faso kumakan 16.03.1985, 1330 слов
+* Faso kumakan 30.03.1985, 1518 слов
+* Faso kumakan 27.04.1985, 1623 слов
+* Faso kumakan 04.05.1985, 1791 слов
+* Faso kumakan 01.06.1985, 1405 слов
+* Faso kumakan 29.06.1985, 1604 слов
+* Faso kumakan 10.08.1985, 1228 слов
+* Faso kumakan 17.08.1985, 966 слов
+* Faso kumakan 12.10.1985, 1542 слов
+* Faso kumakan 23.11.1085, 1243 слов
+* Faso kumakan 28.12.1985, 1108 слов
+* Faso kumakan 11.01.1986, 1648 слов
+* Faso kumakan 18.01.1986, 1244 слов
+* Faso kumakan 25.01.1986, 1101 слов
+* Faso kumakan 15.02.1986, 1509 слов
+* Faso kumakan 29.03.1986, 1742 слов
+* Faso kumakan 05.04.1986, 1474 слов
+* Faso kumakan 03.05.1986, 1205 слов
+* Faso kumakan 17.05.1986, 1329 слов
+* Faso kumakan 07.06.1986, 1545 слов
+* Faso kumakan 12.07.1986, 1630 слов
+* Faso kumakan 19.07.1986, 1312 слов
+* Faso kumakan  06.09.1986, 1334 слов
+* Faso kumakan 13.09.1986, 1828 слов
+* Faso kumakan 11.10.1986, 1449 слов
+* Faso kumakan 11.10_1986bis (04.10.1986?), 2010 слов
+* Faso kumakan 18.10.1986, 1586 слов
+* Faso kumakan 09.11.1986, 1550 слов
+* Faso kumakan 07.02.1987, 1627 слов
+* Faso kumakan 14.03.1987, 1731 слов
+* Faso kumakan 28.03.1987, 1440 слов
+* Faso kumakan 18.04.1987, 1917 слов
+* Faso kumakan 09.05.1987, 1846 слов
+* Faso kumakan 23.05.1987, 2159 слов
+* Faso kumakan 13.06.1987, 2046 слов
+* Faso kumakan 15.08.1987, 2429 слов
+    
+    
+* Irisila kunnafoni 07.1983, 867 слов
+* Irisila kunnafoni 08.1988, 1101 слов
+    
+* Jama 1, juillet 1979, 10309 слов
+* Jama 2, octobre 1979, 8982 слов
+* Jama 3, juin 1980, 7515 слов
+* Jama 4, 1984, 16813 слов
+* Jama 5, 1989, 11836 слов
+* Jama 6, 1990, 13216 слов
+* Jama 7, 1992, 5741 слов
+* Jama 8, 1994, 14428 слов
+* Jama 9, 1998, 13509 слов
+* Jama 11, 2002, 15079 слов
+* Jama 13, 2008, 8192 слов
+    
+* Kalamɛnɛ 1 mai 1992, 4351 слов
+* Kalamɛnɛ 2 juillet 1992, 5829 слов
+* Kalamɛnɛ 3 sept. 1992, 3435 слов
+* Kalamɛnɛ 4 oct. 1992, 5259 слов
+    
+* Kibaru 422, mars 2007, 9567 слов
+* Kibaru 423, avril 2007, 9653 слов
+* Kibaru 424, mai 2007, 9500 слов
+* Kibaru 425, juin 2007, 9798 слов
+* Kibaru 426, juillet 2007, 9891 слов
+* Kibaru 427, août 2007, 9353 слов
+* Kibaru 428, sept. 2007, 9425 слов
+* Kibaru 430, nov. 2007, 10052 слов
+* Kibaru 431, dec. 2007, 9791 слов
+* Kibaru 432, janv. 2008, 10223 слов
+* Kibaru 433, fevrier 2008, 9885 слов
+* Kibaru 434, mars 2008, 9373 слов
+* Kibaru 435, avril 2008, 9112 слов
+* Kibaru 436, mai 2008, 9442 слов
+* Kibaru 437, juin 2008, 9228 слов
+* Kibaru 438, juillet 2008, 9554 слов
+* Kibaru 440, sept. 2008, 8699 слов
+* Kibaru 441, oct. 2008, 7908 слов
+* Kibaru 442, nov. 2008, 9708 слов
+* Kibaru 443, dec. 2008, 9430 слов
+* Kibaru 444, janv. 2009, 9211 слов
+* Kibaru 445, fevr. 2009, 8653 слов
+* Kibaru 446, mars 2009, 9959 слов
+* Kibaru 447, avril 2009, 9444 слов
+* Kibaru 448, mai 2009, 9578 слов
+* Kibaru 449, juin 2009, 9406 слов
+* Kibaru 450, juillet 2009, 9015 слов
+* Kibaru 451, août 2009, 9415 слов
+* Kibaru 455, dec. 2009, 11737 слов
+* Kibaru 456, janv. 2010, 11012 слов
+* Kibaru 457, fevr. 2010, 11452 слов
+* Kibaru 458, mars 2010, 11231 слов
+* Kibaru 459, avril 2010, 11557 слов
+* Kibaru 460, mai 2010, 10843 слов
+* Kibaru 463, août 2010, 11236 слов
+* Kibaru 465, oct. 2010, 11018 слов
+* Kibaru 468, janv. 2011, 10438 слов
+* Kibaru 469, fevr. 2011, 10891 слов
+* Kibaru 470, mars 2011, 11062 слов
+* Kibaru 471, avril 2011, 11062 слов
+* Kibaru 472, mai 2011, 11273 слов
+* Kibaru 473, juin 2011, 12435 слов
+* Kibaru 474, juillet 2011, 11185 слов
+* Kibaru 475, août 2011, 11363 слов
+* Kibaru 476, sept. 2011, 10209 слов
+* Kibaru 477, oct. 2011, 11155 слов
+* Kibaru 478, nov. 2011, 9697 слов
+* Kibaru 479, dec. 2011, 10583 слов
+* Kibaru 480, janv. 2012, 10960 слов
+* Kibaru 481, fevr. 2012, 11016 слов
+* Kibaru 482, mars 2012, 11026 слов
+* Kibaru 483, avril 2012, 10608 слов
+* Kibaru 484, mai 2012, 10941 слов
+* Kibaru 485, juin 2012, 11590 слов
+* Kibaru 486, juillet 2012, 11726 слов
+* Kibaru 487, août 2012, 10605 слов
+* Kibaru 488, sept. 2012, 11674 слов
+* Kibaru 489, oct. 2012, 11063 слов
+* Kibaru 490, nov. 2012, 11353 слов
+* Kibaru 491, dec. 2012, 11016 слов
+* Kibaru 492, janv. 2013, 10958 слов
+* Kibaru 493, fevr. 2013, 11335 слов
+* Kibaru 494, mars 2013, 11350 слов
+* Kibaru 495, avril 2013, 11130 слов
+* Kibaru 496, mai 2013, 11069 слов
+* Kibaru 497, juin 2013, 10944 слов
+* Kibaru 498, juillet 2013, 10546 слов
+* Kibaru 499, août 2013, 11528 слов
+* Kibaru 501, oct. 2013, 10223 слов
+* Kibaru 502, nov. 2013, 10208 слов
+* Kibaru 503, dec. 2013, 10119 слов
+* Kibaru 504, janv. 2014, 10834 слов
+* Kibaru 505, fevr. 2014, 10999 слов
+* Kibaru 506, mars 2014, 10551 слов
+* Kibaru 507, avril 2014, 10855 слов
+* Kibaru 508, mai 2014, 11164 слов
+* Kibaru 509, juin 2014, 12114 слов
+* Kibaru 510, jillet 2014, 10399 слов
+* Kibaru 511, août 2014, 10558 слов
+* Kibaru 512, sept. 2014, 11222 слов
+* Kibaru 513, oct. 2014, 11687 слов
+* Kibaru 514, nov. 2014, 11577 слов
+* Kibaru 515, dec. 2014, 11274 слов
+* Kibaru 516, janv. 2015, 10315 слов
+* Kibaru 518, mars 2015, 10879 слов
+* Kibaru 519, avril 2015, 10539 слов
+* Kibaru 520, mai 2015, 9986 слов
+* Kibaru 521 juin 2015, 10354 слов
+* Kibaru 522 juillet 2015, 11090 слов
+* Kibaru 523 août 2015, 11454 слов
+* Kibaru 524 sept. 2015, 10795 слов
+* Kibaru 525 octobre 2015, 11850 слов
+* Kibaru 559a, août 2018, 6276 слов
+* Kibaru 560, sept. 2018, 12489 слов
+* Kibaru 561, octobre 2018, 11860 слов
+    
+ 
 Выпуск 15 апреля 2018
 ---------------------
 

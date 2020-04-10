@@ -10,6 +10,8 @@
 * Bɛnkansɛbɛn min bɔra Alize sigikafɔw la ka ɲɛsin basigi ni bɛnɲinini ma Mali kɔnɔ (accord d’Alger). 2015, 9707 mots. (Убрать из неснятого подкорпуса!)
 * Bird, Charles; Hutchison, John; Kanté, Mamadou. An ka bamanankan kalan : Beginning Bambara. Indiana University Linguistic Club, 1977 & Bird, Charles; Kanté, Mamadou. An ka bamanankan kalan : Intermediate Bambara. Indiana University Linguistic Club, 1976. 6456 слов.
 * Bolociw. Bamako: EDIM, 1977, 2654 слов.
+* Comment construire et utiliser le foyer 3 pierres amélioré "Nafaman". Bamako: Jamana – AMAP, 1989, 44 p. (bilingue français-bambara), 2204 слов.
+* Coulibaly, Soulyemane; Coulibaly, Mamadou; Traoré, Mariam; Cissé, Seydou. La femme sorcière. Galadio. Paris: l'Harmattan, 1996, 57 p., 1568 слов.
 * Denw ka balo. DNAFLA, 455 слов
 * Dukure, Mamadu. Fatòya ni jigiya. Dakar, 1988, 13 666 слов.
 * Dumestre, Gérard. Geste de Ségou. Paris : Armand Colin, 1979. (1) Trahison de Bakari Dian (par Diéli Baba Sissoko), pp. 61-109. 4771 слов. (2) Bakari Dian et Bilissi, pp. 111-181, 7156 слов.
@@ -21,6 +23,8 @@
 * Dumestre, Gérard; Touré, Seydou. Maléfices et manigances: 111119 слов.
 * Dunbiya, Siyaka; Sangare, Bakari. An ka yɛlɛ dɔɔnin. Bamako: Jamana, 1996, 83 p., 10 200 слов.
 * Dukure, Mamadu. Ni san cyɛnna jate tɛ kalo la. Bamako: Cauris Éditions - Makdas sɛbɛnca, 2009, 58 p. 7752 слов.
+* Görög-Karady, Veronika & Meyer, Gérard. Contes bambara du Mali et du Sénégal Oriental. Paris, 1974, 537 страниц, 43496 слов (не включены сказки, вошедшие в более поздние издания Contes bambara. 
+* Görög-Karady, Veronika & Meyer, Gérard. Contes bambara du Mali et du Sénégal Oriental. Paris, 1985, 11968 слов.
 * Hadamaden josiraw dantigɛkan, 1948 [Declaration universelle des droits de l’homme], 1696 слов.
 * Jara, Usumani; Jara, Yakuba. Baganw ka minnɔgɔlaminɛ taamajan. Bamakɔ: Le figuier, 1996, 762 слов.
 * Jaabi, Musa. Ntɛntɛnw n'u jaabiw. Bamako, DNAFLA – OCED, 1993, 27 p., 2442 слов.
@@ -31,20 +35,36 @@
 * Konate, Musa. Ali Baba ni nsonkɛ binaani ka kɛlɛ. Bamako: Le figuier, 1996, 12 p., 1224 слов.
 * Konatɛ, Musa. Baru n’a basinamuso jugu. Bamako: Le Figuier, 1996, 13 p., 1123 слов.
 * Konatɛ, Musa. Aladɛn ni jinɛmori lanpan. Bamako: Le figuier, [1996], 12 p., 1180 слов.
+* Kɔnta, Mahamadu. Nsiiriw! Nsanaw! Ntɛntɛnw! Bamako, 2000, 63 p. Contes:
+- Surukuba ni jɛgɛw, p. 20-22, 244 слов
+- Surukuba ye kungo ɲagami, pp. 23-29, 622 слов
+- Cɛkɔrɔba n’a denw, p. 34-36, 244 слов
+- Kungosogow ni sonsannin kɛlɛla kɔlɔnsenko la, p. 37-40, 500 слов
+- Mun y’a to jɛgɛw kɛra kɔnɔw ye? p. 45-48, 451 слов
+- Masakɛ ka denmusoko, p. 49-52, 463 слов
+- Morikɛ, p. 53-56, 333 слов
 * Kɔne, Alikawu. Cɛmandali Babilen. Bamako: Jamana, 1989, 40 p., 8225 слов.
 * Kulubali, Baabilen (Charles Bailleul). Ta-tɛ-Ɲa: Ta-Tè_Nya ou Monsieur Réussit-pas. Editions Donniya, Bamako, 2016, 12 p. 1994 слов.
-* Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Vol. 1. Bamakɔ, 2011. Suran 1, 100 слов, Suran 2, 16011 слов; Suran 3, 8399 слов, Suran 4, 9058 слов; Suran 5, 6942 слов; Suran 6, 7498 слов; Suran 7, 8204 слов; Suran 8, 3069 слов; Suran 9, 5910 слов.
+* Kuranɛ kɔrɔ bayɛlɛmanen bamanankan na Alihaji Modibo Jara bolo. Vol. 1. Bamakɔ, 2011. Suran 1, 100 слов, Suran 2, 16011 слов; Suran 3, 8399 слов, Suran 4, 9058 слов; Suran 5, 6942 слов; Suran 6, 7498 слов; Suran 7, 8204 слов; Suran 8, 3069 слов; Suran 9, 5910 слов; Suran 10, 4483 слов; Suran 11, 5205 слов.
 * Mariko, Samu. Masunkulu. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 6207 слов.
 * Meyer, Gérard. Devinettes bambara. Paris : L’Harmattan, 1978, 1869 слов.
 * Musokònòma ka banaw. Bamakɔ, 495 слов.
 * Musow ka baaraw Kaarata mara kɔnɔ. Bamakɔ: DNAFLA-ODIK, 1992, 919 слов.
+* Ɲɛ kɛnɛya sabatili walew. Bamako: Organisation pour la prévention de la cécité – DNAFLA, 111 p., 11426 слов.
+* Sallée, Aliette; Rolland, Denis. Téné: conte bilingue bambara-français. Paris: l'Harmattan, 1995, 24 p. 1448 слов.
 * Sidibe, Tumani Yalam. Basa ku n'a ka dingɛda. Bamako: CMDT, 2000 29 p., 7262 слов.
+* Sidibe, Tumani Yalam. Cɛ jalamugufintigi. (Oroman tila 2 kɔnɔ). Bamako: CMDT/Imprimérie Kibaru, 1991, 8167 слов.
 * Sise, Mamadu Yusufu. Basikililabaara. Bamakɔ : EDIM [1978], 24 p., 2651 слов.
 * Sisoko, Jeli Baba. Daa ka Kòrè kèlè. Bamako: EDIM, 1977, 19452 слов.
 * Sisɔkɔ, Jeli Baba. Lamidu Soma Ɲakate. Ed. par Tera, Kalilu. Bamakɔ, EDIM,1986, 112 p., 15888 слов (предисловие Kalilu Tera, 139 слов)
+* Soumaré, Penda. La femme sorcière. Galadio. Traduit par Coulibaly, Soulyemane; Coulibaly, Mamadou; Traoré, Mariam; Cissé, Seydou. Paris: l'Harmattan, 1996, 57 p., 1568 mots.
 * Sous l’orage. Adapté du livre de Seydou Badian Kouyaté. Pièce de théâtre jouée en bambara par des élèves du Lycée Askia Mohamed, 6187 слов
+* Susɔkɔ, Jeli Baba. Maraka Madi ni Bamanan Madi. Bamako : DNAFLA, 1992, 8182 слов.
+* Tarawele, Daramani. Baganlatɔlɔla: Misi ni saga. Bamakɔ: Kalan Diya, 2006, 6610 mots.
+* Tarawele, Daramani. Batigɛmisi. Bamakɔ: EDIM S.A., 1996, 14534 mots.
 * Tarawele, Dramane. Faciyɛn. Maana ncinin ɲɔgɔndan sɛbɛnni bamanankan na (1993 ɲɔgɔndan). Bamako: Jamana, 1994. 7479 слов.
 * Traore, Ismaila Samba. Hinɛ nana: Réveil d'un paysannat. Keïta, Astan; Théra, Job (éd.). Bamako: Sahélienne, 1992, 119 p., 33 569 слов.
+* Werner, David. Dɔgɔtɔrɔ tɛ sigida min na: Wulakɔnɔmɔgɔw ka yɛrɛfurakɛgafe (Là où il n'y a pas de docteur: Un manuel de soins de santé). Trad. par Bengali, Salifou; Bouaré, Fatoumata; Coulibaly, Abdoulaye; Dembélé, Diatrou. Bamako, 2016. http://gafe.dokotoro.org/multi.html 221100 слов.
 
 Тексты, собранные и затранскрибированные Шарлем Байолем:
 --------------------------------------------------------
@@ -117,6 +137,7 @@ Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes d
 
 Тексты песен:
 
+* Bagayogo, Amadou. Duniya. 235 слов.
 * Bagayogo, Amadou & Doumbia, Mariam. Báara, Ámàdu ní Máriyamu. 593 слов.
 * Bagayogo, Amadou & Doumbia, Mariam . Tubalakɔnɔ.  553 слов.
 * Danba, Fanta. Míniyanba, Fanta Danba. 315 слов.
@@ -143,7 +164,14 @@ Görög, Veronika. Contes bambara du Mali. Paris : Publications orientalistes d
 
 Периодика
 ---------
+Dibifara
+........
+* Dibifara 25, décembre 2003, 2920 слов.
+* Dibifara 38, septembre 2006, 2673 слов.
 
+Faso kumakan
+............
+* Faso kumakan, 15.08.1987, 2447 слов.
 
 Jama
 ....
@@ -152,14 +180,17 @@ Jama 14, 23 280 слов
 
 Jɛkabaara
 .........
-* Jɛkabaara 1, janv. 1986, 3485 слов
-* Jɛkabaara 10, oct. 1986, 3800 слов
-* Jɛkabaara 142, août 1997, 6874 слов
-* Jɛkabaara 145, novembre 1997, 9098 слов
-* Jɛkabaara 171, janvier 2000, 6470 слов
-* Jɛkabaara 273, juillet 2008, 9069 слов
-* Jɛkabaara 329, janv. 2014, 6335 слов
-* Jɛkabaara 332, avril 2014, 6501 слов
+* Jɛkabaara 1, janv. 1986, 3485 слов.
+* Jɛkabaara 3, mars 1986, 4256 слов.
+* Jɛkabaara 10, oct. 1986, 3800 слов.
+* Jɛkabaara 142, août 1997, 6874 слов.
+* Jɛkabaara 145, novembre 1997, 9098 слов.
+* Jɛkabaara 171, janvier 2000, 6470 слов.
+* Jɛkabaara 273, juillet 2008, 9069 слов.
+* Jɛkabaara 280, février 2009, 6496 слов.
+* Jɛkabaara 300, octobre 2010, 6370 слов.
+* Jɛkabaara 329, janv. 2014, 6335 слов.
+* Jɛkabaara 332, avril 2014, 6501 слов.
 
 Faso kan
 ........
@@ -185,11 +216,32 @@ Faso kan
 * juin: 128 слов
 * juillet: 736 слов
 
-2013:
+2012
+* Faso kan 2012 Avril Aw ye ɛntɛrinɛtikalanni jaw sɔrɔyan,  min kɛrabajidaladuguw la, 41 слов.
+* Faso kan 2012 Avril Ɛntɛrinɛtibɛ se ka kɛ sababu ye ka kalan kɛ buguturu ni bugucɛ ye, 286 слов.
+* Faso kan 2012 Avril Fali caman bɛ tunun k’a sababu kɛ zɔnye ye, 135 слов.
+* Faso kan 2012 Avril Situlubɔ don ye ɲɛnajɛba ye dugu kɔnɔ, 115 слов.
+* Faso kan 2012 mai Ɛntɛrinɛti lakodɔnni lakɔlidenw misɛnninw fɛ mangoro kɔrɔ, Sekɔrɔ. 121 слов
+* Faso kan 2012 mai Fasokan ye "Kalanni Sekojɔnjɔn" sɔrɔ Bobs san 2012 ɲɔgɔndan na. 457 слов
+* Faso kan 2012 mai Bɔlɔnkɔnɔna furannikɛla dɔ ye dolari 500 000 tɔmɔ, k’a di a tigi ma. 377 слов
+* Faso kan 2012 mai Nakɔsɔnnan kɔrɔman. 214 слов
+* Faso kan 2012 mai So nɛɛmalen togoda la. 137 слов
+* Faso kan 2012 juin. Togodala lakɔlidenw ye u ka jamana lakodɔn k’a sababu kɛ Ɛntɛrinɛti yaalata ye, 334 слов.
+* Faso kan 2012 septembre. Nisɔndiya ni siran sɛnɛkɛlaw fɛ u ka duguw la, 336 слов.
+* Faso kan 2012 septembre Kɔngɔ gɛnna ka bɔ duguw kɔnɔ, 496 слов
+* Faso kan 2012 septembre Sɛnɛ Segu : forow bɛ ka layidu dafa, 631 слов
+* Faso kan 2012 octobre Segu : bagan sonya kɛlen bɛ kamanaganko ye togodala mɔgɔw bolo, 325 слов
+* Faso kan 2013 mai. Togodala denmisɛn minnu bɛ dugubaw, forow b’aw weele. 434 слов
 
-* mai: 338 слов
+2013
+* Faso kan 2013 mai Afripeja ye FarafinnaWikipeja ye, 330 слов
+* Faso kan 2013 oct. Balikukalan tɔgɔla don diɲɛ kɔnɔ, san 2013, 1458 слов
+* Faso kan 2013 dec. Bamakɔ: Tasuma ye aritizana minɛ. 310 слов
 
-Kalankisɛ, No. 10, февраль 1998, статьи со снятием омонимии: 1663 слов
+2014
+* Faso kan 2014, janvier, Fililatilennan bamanankan sɛbɛnni na ɔridinatɛri kan, 1509 слов
+* Faso kan 2014 avr. Mali : dɔgɔ don, dɔngɔnɔw dɔngɔnɔduguw la, 506 слов
+* Faso kan 2014 mai, Afiripeja kɛra dɔnnin bulonba ye lakɔlikaramɔgɔw bolo, 59 слов
 
 Kibaru
 ------
@@ -203,9 +255,12 @@ Kibaru
 * Kibaru 65, Juillet 1977, 1765 слов
 * Kibaru 111, mai 1981, 3785 слов
 * Kibaru 160-179, dec. 1986, 3592 слов
+* Kibaru 200, sept. 1989, 5313 слов
 * Kibaru 258, juillet 1993, 10084 слов
+* Kibaru 400, mai 2005, 11234 слов
 * Kibaru 466, novembre 2010, 11382 слов
 * Kibaru 467, Dec. 2010, 11079 слов
+* Kibaru 500, septembre 2013, 99619 слов
 * Kibaru 526, nov. 2015, p. 1-3, 3856 слов
 * Kibaru 527, Décembre 2015, 10972 слов
 * Kibaru 528, janvier 2016, 10731 слов
@@ -231,4 +286,12 @@ Kibaru
 * Kibaru 549, oct. 2017, 11077 слов
 * Kibaru 552, janv. 2018, 11034 слов
 * Kibaru 553, fevr. 2018, 11391 слов
+* Kibaru 555, avril 2018, 10939 слов
+* Kibaru 556, mai 2018, 11214 слов
+* Kibaru 558, juillet 2018, 11987 слов
+* Kibaru 559b, août 2018, 18224 слов
+* Kibaru 567, avril 2019, 8745 слов
+
+* Kolonkisɛ 10, 01.02.1998, 4117 слов
+
 
