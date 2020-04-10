@@ -6,7 +6,7 @@
 Справочный Корпус Бамана
 ========================
 
-`Поиск в корпусе <http://maslinsky.spb.ru/bonito/run.cgi/first_form>`_
+`Поиск в корпусе <http://cormande.huma-num.fr/corbama/run.cgi/first_form>`_
 
 :download:`Инструкция по поиску в корпусе (PDF) <./corbama-guide.pdf>`
 
